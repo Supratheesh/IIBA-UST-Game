@@ -1,0 +1,700 @@
+WWW stands for?;
+World Whole Web;
+Wide World Web;
+Web World Wide;
+World Wide Web;
+World Wide Web;
+-end
+Which of the following are components of Central Processing Unit (CPU)?;
+Arithmetic logic unit, Mouse;
+Arithmetic logic unit, Control unit;
+Arithmetic logic unit, Integrated Circuits;
+Control Unit, Monitor;
+Arithmetic logic unit, Control unit;
+-end
+Which among following first generation of computers had?;
+Vaccum Tubes and Magnetic Drum;
+Integrated Circuits;
+Magnetic Tape and Transistors;
+All of above;
+Vaccum Tubes and Magnetic Drum;
+-end
+Where is RAM located?;
+Expansion Board;
+External Drive;
+Mother Board;
+All of above;
+Mother Board;
+-end
+If a computer has more than one processor then it is known as?;
+Uniprocess;
+Multiprocessor;
+Multithreaded;
+Multiprogramming;
+Multiprocessor;
+-end
+If a computer provides database services to other, then it will be known as?;
+Web server;
+Application server;
+Database server;
+FTP server;
+Database server;
+-end
+Full form of URL is?;
+Uniform Resource Locator;
+Uniform Resource Link;
+Uniform Registered Link;
+Unified Resource Link;
+Uniform Resource Locator;
+-end
+In which of the following form, data is stored in computer?;
+Decimal;
+Binary;
+HexaDecimal;
+Octal;
+Binary;
+-end
+Technology used to provide internet by transmitting data over wires of telephone network is?;
+Transmitter;
+Diodes;
+HHL;
+DSL;
+DSL;
+-end
+Which level language is Assembly Language?;
+High-level programming language;
+Medium-level programming language;
+Low-level programming language;
+Machine language;
+Low-level programming language;
+-end
+Which of following is used in RAM?;
+Conductor;
+Semi Conductor;
+Vaccum Tubes;
+Transistor;
+Semi Conductor;
+-end
+What is full form of GUI in terms of computers?;
+Graphical user Instrument;
+Graphical unified Interface;
+Graphical unified Instrument;
+Graphical user Interface;
+Graphical user Interface;
+-end
+What is full form of ALU?;
+Arithmetic logic unit;
+Allowed logic unit;
+Ascii logic unit;
+Arithmetic least unit;
+Arithmetic logic unit;
+-end
+Solar power generates electricity from what source?;
+Water;
+Air;
+Sun;
+Earth;
+Sun;
+-end
+Did the Apple iPhone first become available in?;
+2005;
+2006;
+2007;
+2008;
+2007;
+-end
+Firefox, Opera, Chrome, Safari and Explorer are types of what?;
+Music Player;
+File Explorer;
+Anti Virus;
+Web Browsers;
+Web Browsers;
+-end
+What science fiction writer wrote the three laws of robotics?;
+Paul Allen;
+Honda;
+Isaac Asimov;
+Toyota;
+Isaac Asimov;
+-end
+What is the Earth’s primary source of energy?;
+Water;
+Air;
+Earth;
+The Sun;
+The Sun;
+-end
+A resistor's first three colour bands are; brown, black, and red, - What is its value?;
+10 Kohms;
+10 ohms;
+1000 ohms;
+200 ohms;
+1000 ohms;
+-end
+Who was the Founder of Bluetooth?;
+Ericson;
+Martin Cooper;
+Steve Jobs;
+Apple;
+Ericson;
+-end
+Who was the father of Internet?;
+Chares Babbage;
+Vint Cerf;
+Denis Riche;
+Martin Cooper;
+Vint Cerf;
+-end
+Verification is process of?;
+Access;
+Login;
+Logout;
+Authentication;
+Authentication;
+-end
+What is LINUX?;
+Malware;
+Operating System;
+Application Program;
+Firmware;
+Operating System;
+-end
+Which is most common language used in web designing?;
+C;
+C++;
+PHP;
+HTML;
+HTML;
+-end
+Which among following is commonly used language in Android applications?;
+C;
+Php;
+C++;
+Java;
+Java;
+-end
+Where are saved files stored in computer?;
+RAM;
+Hard disk;
+Cache;
+Any of above;
+Hard disk;
+-end
+Which operations are performed by RAM?;
+Read;
+Write;
+Read and Write;
+Depends on computer;
+Read and Write;
+-end
+USB is which type of storage device?;
+Primay;
+Secondary;
+Tertiary;
+None of above;
+Tertiary;
+-end
+Which program is run by BIOS to check hardware components are working properly while computer is turned ON?;
+DMOS;
+POST;
+CMOS;
+RIP;
+POST;
+-end
+Random Access Memory (RAM) is which storage of device?;
+Primay;
+Secondary;
+Teriary;
+Off line;
+Primay;
+-end
+What is full form CMOS?;
+Content Metal Oxide Semiconductor;
+Complementary Metal Oxide Semiconductor;
+Complementary Metal Oxygen Semiconductor;
+Complementary Metal Oscilator Semiconductor;
+Complementary Metal Oxide Semiconductor;
+-end
+Second generation of computers consist of which of following?;
+Vaccum Tubes;
+Diodes;
+VLSI Microprocessor;
+Transistors;
+Transistors;
+-end
+MPG is an file extension of which type of files?;
+Audio;
+Image;
+Video;
+Flash;
+Video;
+-end
+What is full form of SMPS?;
+Switch Mode Power Supply;
+Simple Mode Power Supply;
+Storage Mode Power Supply;
+Storage Mode Power Shortage;
+Switch Mode Power Supply;
+-end
+Which component of computer is also considered as it Heart?;
+Monitor;
+Keyboard;
+Scanner;
+Microprocessor;
+Microprocessor;
+-end
+What is used to make computer chips?;
+Copper;
+Steel;
+Silicon;
+Iron;
+Silicon;
+-end
+Where BIOS is stored?;
+Hard Disk;
+RAM;
+Flash Memory Chip;
+Any of above;
+Flash Memory Chip;
+-end
+What is full form of EXIF?;
+Exchangeable Image Fine Finish;
+Exchangeable Image File Format;
+Executable Image File Format;
+Executable Image File Finish;
+Exchangeable Image File Format;
+-end
+BIOS is used for?;
+Updating system information on network;
+Loading operating system;
+It helps in routing;
+It take inputs from keywords and other devices;
+Loading operating system;
+-end
+1 Mega Byte is equal to?;
+1024 Bytes;
+1024 Kilo Bytes;
+1024 Giga Bits;
+1024 Bits;
+1024 Kilo Bytes;
+-end
+An electronic path, that sends signals from one part of computer to another is?;
+Logic Gate;
+Modem;
+Bus;
+Serial Port;
+Bus;
+-end
+Which is odd one?;
+Inkjet Printers;
+CRT;
+Laser Printers;
+Dot Matrix Printers;
+CRT;
+-end
+Which device among following is used for sending digital data over a phone line?;
+USB;
+Scanner;
+Printer;
+Modem;
+Modem;
+-end
+IP address version 4 is in which format?;
+4 bit;
+8 bit;
+16 bit;
+32 bit;
+32 bit;
+-end
+Which type of switching is used in Internet?;
+Packet;
+Telephone;
+Circuit;
+Telex;
+Packet;
+-end
+Microsoft office is type of?;
+System software;
+Application software;
+Utility Software;
+Firmware;
+Application software;
+-end
+A wireless technology built in electronic gadgets used for exchanging data over short distances is?;
+Bluetooth;
+Wifi;
+Modem;
+USB
+Bluetooth;
+-end
+ARP stands for?;
+Address Reverse Protocol;
+Address Resolution Protocol;
+Address Repersentative Protocol;
+Address Recording Protocol;
+Address Resolution Protocol;
+-end
+Which is responsible for communication between Memory and ALU?;
+Keyboard;
+RAM;
+Control nit;
+USB;
+Control nit;
+-end
+If CPU executes multiple programs simultaneously, it will be known as?;
+Multiprocessing;
+Multitasking;
+Timesharing;
+Multiprogramming;
+Multitasking;
+-end
+Who invented C++?;
+Steve Jobs;
+James Gosling;
+Bjarne Stroustrup;
+Dennis Ritchie;
+Bjarne Stroustrup;
+-end
+One byte is equal to how many bits?;
+4 bits;
+8 bits;
+12 bits;
+16 bits;
+8 bits;
+-end
+What is the meaning of OSI, in terms of computers?;
+Open Software Intrerelation;
+Open System Intrerelation;
+Open Software Interconnection;
+Open System Interconnection;
+Open System Interconnection;
+-end
+One nibble is equal to how many bits?;
+4 bits;
+8 bits;
+12 bits;
+16 bits;
+4 bits;
+-end
+ULSI microprocessor is used in which generation of computers?;
+Second generation;
+Third generation;
+Fourth generation;
+Fifth generation;
+Fifth generation;
+-end
+Who invented keyboard?;
+James Gosling;
+Steve Jobs;
+Martin cooper;
+Christoper Latham Sholes;
+Christoper Latham Sholes;
+-end
+What is meaning of OMR?;
+Optical Mark Reader;
+Optical Message Reader;
+Optical Message Render;
+Optical Mark Render;
+Optical Mark Reader;
+-end
+What can be considered as basic building blocks of a digital circuit?;
+Logic Gate;
+Diode;
+Semi Conductor;
+CMOS;
+Logic Gate;
+-end
+Which type of storage device is a BIOS?;
+Primary;
+Secondary;
+Tertiary;
+Not a storage device;
+Primary;
+-end
+In computer what converts AC to DC?;
+POST;
+Adapter;
+RAM;
+SMPS;
+SMPS;
+-end
+Which among following is responsible for specifying address of a memory location?;
+RAM;
+Address Bus;
+Control Bus;
+Hard Disk;
+Address Bus;
+-end
+Which among following is responsible for finding and loading operating system into RAM?;
+Bootstrap Loader;
+CMOS;
+BIOS;
+DMOS;
+Bootstrap Loader;
+-end
+Computer resolution measures?;
+Size of screen;
+Shape of screen;
+Number of pixels;
+Number of colours it support;
+Number of pixels;
+-end
+From which year 5th generation of computers is considered?;
+1970;
+1980;
+1990;
+2000;
+1980;
+-end
+Which term is related to database?;
+PHP;
+Java;
+Oracle;
+Assembly;
+Oracle;
+-end
+Which among following is engine of computer?
+Mouse;
+Scanner;
+Monitor;
+Processor;
+Processor;
+-end
+Which language was used as first generation language?;
+Machine language;
+Assembly language;
+Java;
+C;
+Machine language;
+-end
+Where is cahce memory is located?;
+CPU;
+Monitor;
+Scanner;
+On file server;
+CPU;
+-end
+Which operating system is developed by Apple?;
+Linux;
+Window;
+Mac OS;
+DOS;
+Mac OS;
+-end
+Who invented Java?;
+Deniss Ritche;
+James Gosling;
+Bajarnae;
+Linus Torvalds;
+James Gosling;
+-end
+Who is known as father of Artificial Intelligence?;
+John McCarthy;
+Vint Cerf;
+Dennis Ritchie;
+James Gosling;
+John McCarthy;
+-end
+Which among following is an image name extension?;
+Gif;
+Docx;
+Ppt;
+Lib;
+Gif;
+-end
+An Assembler is used to translate a program written in?;
+Low-Level Language;
+Machine Language;
+Assembly Language;
+High-Level language;
+Assembly Language;
+-end
+Charles Babbage designed the first mechanical computer named?;
+Analytical Engine;
+Processor;
+Comp Engine;
+Abacus;
+Analytical Engine;
+-end
+What is the name of a device that converts digital signals to analog signals?;
+Router;
+Switch;
+Modem;
+None of above;
+Modem;
+-end
+Which is known as the most powerful type of computer?;
+Super Computer;
+Iframes;
+Mega Frame;
+Super Access;
+Super Computer;
+-end
+From the following which is known as the administrative section of the computer system?;
+Control Unit;
+Input Unit;
+RAM;
+Central Processing Unit;
+Central Processing Unit;
+-end
+What is kind of CD-ROM?;
+Optical disk;
+Magnetic disk;
+Magneto-Optical disk;
+None of above;
+Magnetic disk;
+-end
+In 2013, Google announced a $1300 price tag on what new line of Chromebooks?;
+Magic;
+Newbyte;
+Angel;
+Pixel;
+Pixel;
+-end
+What did Robert Adler use to power remote controls?;
+Ultrasound;
+Radioactivity;
+Lasers;
+Electricity;
+Ultrasound;
+-end
+DPI means?;
+Dots processing Inch;
+Dots per Inch;
+Diagram per Inch;
+Diagram processing Inch;
+Dots per Inch;
+-end
+Firewall is?;
+A hardware;
+A software;
+Can be a hardware as well as software;
+Can neither be a hardware nor a software;
+Can be a hardware as well as software;
+-end
+Which among following is not necessary for working of a standalone computer?;
+RAM;
+Hard Drive;
+Operating System;
+LAN card;
+LAN card;
+-end
+What is full form of MBR?;
+Mini Boot Record;
+Master Break Record;
+Master Boot Race;
+Master Boot Record;
+Master Boot Record;
+-end
+What is algorithm?;
+Application code;
+Type of programming language;
+Step by step procedure for calculations;
+None of above;
+Step by step procedure for calculations;
+-end;
+A computer must have?;
+Microsoft office;
+Operating System;
+Internet connectivity;
+An antivirus;
+Operating System;
+-end
+Compiler is related to?;
+DOS;
+Programming Language;
+Database;
+Internet;
+Programming Language;
+-end
+DNS is the abbreviation of?;
+Domain Network Service;
+Dynamic Network System;
+Domain Name System;
+Domain Name Service;
+Domain Name System;
+-end
+Who is the founder of Apple Computers?;
+Bill Gates;
+Steve Jobs;
+John McCarthy;
+Stephane Lyndse;
+Steve Jobs;
+-end
+LAN stands for?;
+Local Area Network;
+Land Area Network;
+Least Area Network;
+Leave All Network;
+Local Area Network;
+-end
+Who invented Linux operating system?;
+Deniss Ritche;
+Linus Torvalds;
+Steve Jobs;
+Madam Curie;
+Linus Torvalds;
+-end
+Which among following is not a type of printer?;
+Inkjet;
+Dot Matrix;
+Rubber Wheel;
+Laser;
+Rubber Wheel;
+-end
+What is the smallest addressable element of a display device?;
+Root;
+Shell;
+Pixel;
+Dot;
+Pixel;
+-end
+What is full form of USB?;
+Unidirectional Serial Bus;
+Universal Serial Bus;
+Unidirectional Standard Bus;
+Universal Standard Bus;
+Universal Serial Bus;
+-end
+LAN card is also known as?;
+Modem;
+NIC;
+Hub;
+Switch;
+NIC;
+-end
+Firmware is stored in?;
+RAM;
+Cache;
+ROM;
+Hard Disk;
+ROM;
+-end
+Set of instructions which instructs computer to perform certain task is called?;
+Debugger;
+Assembler;
+Program;
+Flowchart;
+Program;
+-end
+What is the meaning of FTP?;
+File Training Protocol;
+File Transfer Protocol;
+File Transit Protocol;
+File Tracking Protocol;
+File Transfer Protocol;
+-end
+Which of following is not malicious?;
+Worm;
+Trojan Horse;
+Driver;
+Virus;
+Driver;
+-end
+Which among following is smallest?;
+Gigabyte;
+TeraByte;
+Megabyte;
+Kilobyte;
+Kilobyte;
+-end

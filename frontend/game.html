@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game</title>
+
+    <script>
+                    window.sessionStorage.setItem('gkScore', '20');
+                    window.sessionStorage.setItem('financialScore', "250");
+                    window.sessionStorage.setItem('retailScore', "250");
+                    window.sessionStorage.setItem('healthCareScore', "250");
+                    window.sessionStorage.setItem('manufactureScore', "250");
+                    window.sessionStorage.setItem('automationScore', "250");
+
+
+        function Score(){
+            const playerId=window.sessionStorage.getItem('playerId');
+        const gkScore= window.sessionStorage.getItem('gkScore');
+        const financialScore= window.sessionStorage.getItem('financialScore');
+        const retailScore= window.sessionStorage.getItem('retailScore');
+        const healthCareScore=  window.sessionStorage.getItem('healthCareScore');
+        const  manufactureScore  = window.sessionStorage.getItem('manufactureScore');
+        const automationScore =   window.sessionStorage.getItem('automationScore');
+
+
+            fetch("http://localhost:3000/auth/score", {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    gkScore: gkScore,
+                    financialScore: financialScore,
+                    retailScore: retailScore,
+                    healthCareScore: healthCareScore,
+                    manufactureScore:manufactureScore,
+                    automationScore:automationScore,
+                    player_id:playerId
+            })
+        }) 
+                .then(function (response) {
+                    return response.json()
+                }) 
+                .then(function (data) {
+                    console.log('Success222222:', data)
+
+
+                })
+        
+        }
+        
+        
+            </script>
+</head>
+<body>
+    <h1>game</h1>
+    <button onclick="Score()">Update Score</button>
+
+
+
+</body>
+</html>

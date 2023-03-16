@@ -68,11 +68,11 @@
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
-		"celebrity.txt",
-		"history.txt",
-		"movie.txt",
-		"music.txt",
-		"sport.txt",
+		"finacial.txt",
+		"Automotive.txt",
+		"manufacturing.txt",
+		"Retail.txt",
+		"Healthcare.txt",
 		"technology.txt"
 	]
 }

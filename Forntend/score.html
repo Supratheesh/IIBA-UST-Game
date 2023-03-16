@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IIBA-UST-Game-Score</title>
+
+    <script>
+
+
+        if (!window.localStorage.getItem('pi')) {
+            alert("Please register then submit your score");
+            document.location = "registration.html";
+        }else{
+            Score();
+        }
+
+
+        function Score() {
+
+            const playerId = window.localStorage.getItem('pi');
+            const gkScore = window.localStorage.getItem('HighScore_Technology');
+            const financialScore = window.localStorage.getItem('HighScore_Finacial');
+            const retailScore = window.localStorage.getItem('HighScore_Retail');
+            const healthCareScore = window.localStorage.getItem('HighScore_HealthCare');
+            const manufactureScore = window.localStorage.getItem('HighScore_Manufacturing');
+            const automationScore = window.localStorage.getItem('HighScore_Automation');
+
+
+            fetch("http://localhost:3000/auth/score", {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    gkScore: gkScore,
+                    financialScore: financialScore,
+                    retailScore: retailScore,
+                    healthCareScore: healthCareScore,
+                    manufactureScore: manufactureScore,
+                    automationScore: automationScore,
+                    player_id: playerId
+                })
+            })
+                .then(function (response) {
+                    return response.json()
+                })
+                .then(function (data) {
+                    console.log('Success222222:', data)
+                    alert("Score Updated Success Fully");
+                    document.location = "index.html";
+                })
+
+        }
+
+
+    </script>
+</head>
+
+<body>
+  
+
+
+</body>
+
+</html>

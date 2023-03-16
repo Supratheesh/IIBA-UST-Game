@@ -1,0 +1,812 @@
+﻿What does OTA stand for?;
+Open Technology Alliance; 
+Over-The-Air;
+Online Trading Application;
+Operational Technology Architecture;
+Over-The-Air;
+-end
+What types of devices can receive OTA updates?;
+Only smartphones;
+Only smart TVs;
+Only IoT devices; 
+Any internet-connected device;
+Any internet-connected device;
+-end
+Why are OTA updates important?;
+They provide users with new features, bug fixes, security updates, and performance improvements; 
+They allow devices to connect to the internet;
+They enable devices to receive and make phone calls; 
+They improve the battery life of devices;
+They provide users with new features, bug fixes, security updates, and performance improvements;
+-end
+How are OTA updates delivered?;
+Via physical cables; 
+Via email attachments; 
+Via wireless networks; 
+Via satellite communication;
+Via wireless networks;
+-end
+Can users decline OTA updates?;
+Yes, users can decline OTA updates; 
+No, users cannot decline OTA updates;
+It depends on the update only;
+It depends on the device and the update;
+It depends on the device and the update;
+-end
+How do OTA updates affect data usage?;
+They do not affect data usage; 
+They can reduce data usage; 
+They can increase data usage; 
+They can eliminate data usage;
+They can increase data usage;
+-end
+How are OTA updates different from manual updates?; 
+OTA updates require a physical connection to a computer, while manual updates do not; 
+OTA updates are downloaded and installed automatically, while manual updates require user intervention; 
+OTA updates are faster than manual updates;
+OTA updates are more expensive than manual updates;
+OTA updates are downloaded and installed automatically, while manual updates require user intervention;
+-end
+What are the benefits of OTA updates in automation?; 
+They eliminate the need for manual intervention or device recalls; 
+They allow devices to connect to the internet; 
+They reduce the battery life of devices; 
+They increase the cost of devices;
+They eliminate the need for manual intervention or device recalls;
+-end
+How do OTA updates affect device security?; 
+They can improve device security by providing security patches and bug fixes that address known vulnerabilities;
+They can reduce device security by introducing new vulnerabilities;
+They have no effect on device security;
+;
+They can improve device security by providing security patches and bug fixes that address known vulnerabilities;
+-end
+Can OTA updates cause problems?; 
+No, OTA updates are always error-free; 
+Yes, OTA updates can cause problems if they are not tested thoroughly before being released; 
+It depends on the device and the update;
+;
+It depends on the device and the update;
+-end
+What is a vehicle recall?; 
+The process of correcting a defect or safety issue in a vehicle; 
+The process of buying back a vehicle from a customer; 
+The process of reporting a defect or safety issue to the manufacturer;
+;
+The process of correcting a defect or safety issue in a vehicle;
+-end
+Who initiates a vehicle recall?; 
+The vehicle owner; 
+The regulatory agency or manufacturer; 
+The dealership where the vehicle was purchased;
+;
+The regulatory agency or manufacturer;
+-end
+When did the first recorded vehicle recall occur?; 
+1900; 
+1916;
+1930;
+1950; 
+1916; 
+-end
+What was the cause of the Ford Motor Company's vehicle recall in the 1970s?; 
+Faulty steering gear; 
+Defective cruise control mechanism; 
+Faulty transmission;
+;
+Defective cruise control mechanism;
+-end
+How many vehicles were affected by the Takata airbag recall?; 
+Over 10 million; 
+Over 50 million;
+over 30 million;
+Over 100 million; 
+Over 100 million; 
+-end
+What was the main issue with the vehicles recalled by General Motors in the 1980s?; 
+Faulty steering gear; 
+Defective cruise control mechanism; 
+Faulty transmission;
+;
+Faulty transmission;
+-end
+Who is responsible for repairing or replacing the defective parts in a vehicle recall?; 
+The vehicle owner; 
+The regulatory agency;
+The manufacturer;
+;
+The manufacturer;
+-end
+What is the purpose of a vehicle recall?; 
+To correct defects and safety issues in vehicles; 
+To increase profits for the manufacturer; 
+To reduce competition in the automotive industry;
+;
+To correct defects and safety issues in vehicles; 
+-end
+What is the role of the National Highway Traffic Safety Administration (NHTSA) in vehicle recalls?; 
+To initiate vehicle recalls; 
+To manufacture vehicles;
+To buy back vehicles from customers;
+;
+To initiate vehicle recalls; 
+-end
+Why are vehicle recalls important in the history of automation?; 
+They help to improve the safety and reliability of vehicles; 
+They help to increase competition in the automotive industry; 
+They help to reduce the number of vehicles on the road;
+;
+They help to improve the safety and reliability of vehicles; 
+-end                    
+What does CASE stand for in the context of automation?; 
+Connected, Autonomous, Shared, Electric; 
+Connected, Automated, Shared, Efficient;
+Computerized, Autonomous, Sustainable, Electric;
+;
+Connected, Autonomous, Shared, Electric; 
+-end
+What does the Connected aspect of CASE refer to?; 
+The ability of vehicles to communicate with each other and infrastructure; 
+The use of electric powertrains in vehicles; 
+The development of self-driving vehicles;
+;
+The ability of vehicles to communicate with each other and infrastructure; 
+-end
+What does the Autonomous aspect of CASE refer to?; 
+The ability of vehicles to communicate with each other and infrastructure; 
+The use of electric powertrains in vehicles;
+The development of self-driving vehicles;
+;
+The development of self-driving vehicles;
+-end
+What does the Shared aspect of CASE refer to?; 
+The ability of vehicles to communicate with each other and infrastructure; 
+The growing popularity of ride-sharing and car-sharing services;
+The development of self-driving vehicles;
+;
+The growing popularity of ride-sharing and car-sharing services; 
+-end
+What does the Electric aspect of CASE refer to?; 
+The ability of vehicles to communicate with each other and infrastructure; 
+The use of electric powertrains in vehicles;
+The development of self-driving vehicles;
+;
+The use of electric powertrains in vehicles; 
+-end
+Which of the following is NOT one of the four pillars of CASE?; 
+Connected; 
+Automated; 
+Sustainable;
+Shared; 
+Sustainable;
+-end
+What is the potential benefit of Autonomous vehicles in the context of CASE?; 
+Reduced congestion; 
+Increased greenhouse gas emissions; 
+Increased accidents;
+;
+Reduced congestion; 
+-end
+Which technology is driving the Connected aspect of CASE?; 
+5G; 
+Artificial Intelligence;
+Quantum Computing;
+;
+5G; 
+-end
+Which aspect of CASE is being driven by the rise of mobile technology and the increasing focus on sustainability and urbanization?; 
+Connected; 
+Autonomous; 
+Shared; 
+Electric; 
+Shared; 
+-end
+What is the goal of CASE in automation?; 
+To create a more sustainable, efficient, and safe transportation system; 
+To increase competition in the automotive industry;
+To develop faster and more powerful cars;
+;
+To create a more sustainable, efficient, and safe transportation system;
+-end
+What does V2X stand for in the context of automation?; 
+Vehicle-to-Xenon; 
+Vehicle-to-External;
+Vehicle-to-Everything;
+;
+Vehicle-to-Everything; 
+-end
+What type of communication does V2X use?; 
+Wired communication; 
+Wireless communication;
+Optical communication;
+;
+Wireless communication; 
+-end
+What is the purpose of V2X technology in automation?; 
+To improve road safety; 
+To increase traffic congestion;
+To reduce the efficiency of transportation systems;
+;
+To improve road safety; 
+-end
+What are the two main types of V2X communication?; 
+Vehicle-to-User and Vehicle-to-Road; 
+Vehicle-to-Vehicle and Vehicle-to-Infrastructure;
+Vehicle-to-Cloud and Vehicle-to-Sensor;
+;
+Vehicle-to-Vehicle and Vehicle-to-Infrastructure; 
+-end
+Which type of V2X communication enables vehicles to communicate with the surrounding infrastructure?; 
+Vehicle-to-Vehicle; 
+Vehicle-to-User;
+Vehicle-to-Infrastructure;
+;
+Vehicle-to-Infrastructure; 
+-end
+What is the benefit of V2X technology in the context of connected and autonomous vehicles?; 
+It enables vehicles to make more informed decisions and respond to changing traffic conditions; 
+It makes vehicles more expensive; 
+It increases the likelihood of accidents;
+;
+It enables vehicles to make more informed decisions and respond to changing traffic conditions; 
+-end
+How can V2X technology be used to optimize traffic flow?; 
+By providing information about congestion, accidents, and road closures;
+By increasing the number of vehicles on the road;
+By reducing the speed limit;
+;
+By providing information about congestion, accidents, and road closures; 
+-end
+What is the potential impact of V2X technology on road safety?; 
+It could significantly reduce the number of accidents;
+It could increase the number of accidents;
+It would have no impact on road safety;
+;
+It could significantly reduce the number of accidents;
+-end
+Which of the following is NOT a benefit of V2X technology in automation?; 
+Improved road safety; 
+Reduced traffic congestion;
+Increased greenhouse gas emissions;
+;
+Increased greenhouse gas emissions; 
+-end
+What is the future of V2X technology in automation?; 
+It is expected to play a key role in the future of transportation;
+It is unlikely to be widely adopted; 
+It will be replaced by other communication technologies;
+; 
+It is expected to play a key role in the future of transportation;
+-end
+Who invented the first automotive vehicle?; 
+Karl Marx; 
+Karl Benz;
+Henry Benz;
+Henry Ford; 
+Karl Benz; 
+-end
+What was the name of the first automotive vehicle?; 
+Benz Patent-Motorwagen; 
+Ford Model T;
+Daimler Motorized Carriage;
+;
+Benz Patent-Motorwagen; 
+-end
+When was the first automotive vehicle manufactured?; 
+1885; 
+1908;
+1895;
+1927; 
+1885; 
+-end
+What type of engine powered the first automotive vehicle?; 
+Electric engine; 
+Gasoline engine;
+Diesel engine;
+; 
+Gasoline engine; 
+-end
+How many wheels did the first automotive vehicle have?; 
+Two wheels; 
+Three wheels;
+Four wheels;
+;
+Three wheels; 
+-end
+What was the top speed of the first automotive vehicle?; 
+5 miles per hour; 
+10 miles per hour;
+20 miles per hour;
+;
+10 miles per hour; 
+-end
+How many Benz Patent-Motorwagens were produced in the early years?; 
+Hundreds; 
+Dozens;
+Thousands;
+;
+Dozens;
+-end
+What was the significance of the first automotive vehicle?; 
+It revolutionized the way people travel;
+It had no significance; 
+It was a failure;
+;
+It revolutionized the way people travel; 
+-end
+Who were some of the other early pioneers of the automobile?; 
+Henry Ford and William Durant;
+Gottlieb Daimler and Wilhelm Maybach; 
+Louis Chevrolet and Walter Chrysler;
+;
+Gottlieb Daimler and Wilhelm Maybach;
+-end
+What was the impact of the first automotive vehicle on society?; 
+It transformed transportation and paved the way for the development of modern automobiles; 
+It had no impact on society;
+It led to increased pollution and environmental damage;
+;
+It transformed transportation and paved the way for the development of modern automobiles;
+-end   
+Who invented the first internal combustion engine?; 
+Etienne Lenoir; 
+Karl Benz;
+Henry Ford;
+;
+Etienne Lenoir;
+-end
+When was the first internal combustion engine invented?; 
+1850;
+1855;
+1859;
+1901; 
+1859; 
+-end
+What type of fuel was used to power the first internal combustion engine?; 
+Gasoline; 
+Diesel;
+Coal gas;
+;
+Coal gas;
+-end
+What was the name of the vehicle that was powered by the first internal combustion engine?; 
+Benz Patent-Motorwagen;
+Ford Model T; 
+Hippomobile;
+;
+Hippomobile; 
+-end
+What was the horsepower of the first internal combustion engine?;
+1 horsepower; 
+0.5 horsepower; 
+5 horsepower;
+;
+0.5 horsepower;
+-end
+What was the top speed of the Hippomobile?; 
+10 miles per hour;
+4 miles per hour; 
+20 miles per hour;
+;
+4 miles per hour; 
+-end
+Was the first internal combustion engine efficient?; 
+Yes, it was very efficient;
+No, it was not very efficient;
+It was neither efficient nor inefficient;
+;
+No, it was not very efficient;
+-end
+What did the invention of the first internal combustion engine pave the way for?;
+The development of electric vehicles;
+The development of more powerful and efficient internal combustion engines;
+The development of steam engines;
+;
+The development of more powerful and efficient internal combustion engines;
+-end
+What was the impact of the first internal combustion engine on transportation?;
+It revolutionized transportation and paved the way for the development of modern automobiles;
+It had no impact on transportation;
+It led to increased pollution and environmental damage;
+;
+It revolutionized transportation and paved the way for the development of modern automobiles;
+-end
+Who are some other notable inventors of internal combustion engines?;
+Gottlieb Daimler and Wilhelm Maybach;
+Louis Chevrolet and Walter Chrysler;
+Steve Jobs and Bill Gates;
+;
+Gottlieb Daimler and Wilhelm Maybach;
+-end
+What was the name of the first electric vehicle to be commercially available?;
+Baker Electric;
+Tesla Model S ;
+Nissan Leaf;
+;
+Baker Electric;
+-end
+In what year was the Baker Electric first produced?; 
+1880;
+1899;
+1900;
+1920;
+1899;
+-end
+What type of batteries powered the Baker Electric?;
+Lithium-ion batteries;
+Lead-acid batteries;
+Nickel-cadmium batteries;
+;
+Lead-acid batteries;
+-end
+What was the range of the Baker Electric on a single charge?;
+10 miles;
+50 miles;
+100 miles;
+;
+50 miles;
+-end
+What was the top speed of the Baker Electric?;
+10 miles per hour;
+20 miles per hour;
+50 miles per hour;
+;
+20 miles per hour;
+-end
+What was the target market for the Baker Electric?;
+Rural residents;
+Urban residents;
+Farmers;
+;
+Urban residents;
+-end
+Why was the Baker Electric marketed as a clean, quiet and reliable alternative to gasoline-powered vehicles?;
+Because it emitted less pollution;
+Because it was less noisy;
+Because it emitted less pollution and was less noisy;
+;
+Because it emitted less pollution and was less noisy;
+-end
+How long did the Baker Electric remain in production?;
+Until 1920;
+Until 1900;
+Until 1916;
+Until 1930;
+Until 1916;
+-end
+What was the main advantage of the Baker Electric over gasoline-powered vehicles?;
+Lower cost;
+Greater range;
+Ease of operation and maintenance;
+;
+Ease of operation and maintenance;
+-end
+What impact did the Baker Electric have on the development of electric vehicles?;
+It had no impact;
+It paved the way for the development of more advanced electric vehicles;
+It led to the decline of electric vehicles;
+;
+It paved the way for the development of more advanced electric vehicles;
+-end
+What is vehicle cloud?;
+A cloud-like formation in the sky;
+A network of connected vehicles that share data and information via the cloud;
+A type of car designed to work exclusively with cloud technology;
+;
+A network of connected vehicles that share data and information via the cloud;
+-end
+Which of the following is NOT a benefit of vehicle cloud technology?;
+Increased vehicle efficiency and performance;
+Improved road safety;
+Reduced vehicle emissions;
+Higher fuel consumption;
+Higher fuel consumption;
+-end
+What types of data can be shared between vehicles in the cloud?;
+Traffic and weather information;
+Location and speed data;
+Maintenance and repair information;
+All of the above;
+All of the above;
+-end
+What role does the cloud play in vehicle cloud technology?;
+The cloud provides a physical platform for vehicles to connect and share data;
+The cloud is a type of software that runs on each vehicle;
+The cloud is used to store and analyze data collected from vehicles;
+;
+The cloud is used to store and analyze data collected from vehicles;
+-end
+How can vehicle cloud technology be used to improve road safety?;
+By enabling vehicles to communicate with each other and with traffic infrastructure;
+By automatically applying the brakes in emergency situations;
+By alerting drivers to potential hazards on the road;
+All of the above;
+All of the above;
+-end
+What is the purpose of a vehicle cloud platform?;
+To provide a common platform for vehicle manufacturers to collaborate on new technologies;
+To enable vehicle owners to manage and monitor their vehicles remotely;
+To facilitate the sharing of data and information between vehicles;
+;
+To facilitate the sharing of data and information between vehicles;
+-end
+Which of the following is NOT a challenge associated with vehicle cloud technology?;
+Ensuring the privacy and security of shared data;
+Developing standardized communication protocols for vehicles;
+Building and maintaining the necessary cloud infrastructure;
+None of the above;
+None of the above;
+-end
+What is ADAS?;
+A type of electric vehicle;
+A set of advanced technologies designed to assist drivers and enhance vehicle safety;
+An organization that advocates for autonomous driving;
+;
+A set of advanced technologies designed to assist drivers and enhance vehicle safety;
+-end
+Which of the following is NOT a type of ADAS technology?;
+Adaptive Cruise Control (ACC);
+Lane Departure Warning (LDW);
+Automatic Parallel Parking (APP);
+None of the above;
+None of the above;
+-end
+What is the primary difference between ADAS and autonomous vehicles?;
+ADAS only provides assistance to the driver, while autonomous vehicles can drive themselves without any human input;
+ADAS and autonomous vehicles are the same thing;
+ADAS can be installed on any vehicle, while autonomous vehicles require special hardware and software;
+;
+ADAS only provides assistance to the driver, while autonomous vehicles can drive themselves without any human input;
+-end
+What level of autonomy is reached when a vehicle can perform all driving tasks without any human input?;
+Level 1;
+Level 2;
+Level 3;
+Level 5;
+Level 5;
+-end
+What is the primary benefit of autonomous vehicles?;
+Improved safety;
+Reduced traffic congestion;
+Lower carbon emissions;
+All of the above;
+All of the above;
+-end
+What is the purpose of sensors in autonomous vehicles?;
+To provide input to the vehicle's onboard computer, allowing it to make decisions and control vehicle movements;
+To collect data and send it to a central processing unit for analysis;
+To communicate with other vehicles and infrastructure to optimize traffic flow;
+;
+To provide input to the vehicle's onboard computer, allowing it to make decisions and control vehicle movements;
+-end
+What is an automotive conglomerate?;
+A company that produces a wide range of automotive products, including cars, trucks, and motorcycles;
+A group of companies that have merged or acquired other companies to form a large automotive entity;
+A type of vehicle that is designed to transport large groups of people;
+;
+A group of companies that have merged or acquired other companies to form a large automotive entity;
+-end
+Which of the following is an example of an automotive conglomerate?;
+General Motors;
+Tesla;
+Toyota;
+None of the above;
+General Motors;
+-end
+What is the primary advantage of being an automotive conglomerate?;
+Access to a wide range of resources and capabilities;
+Ability to dominate the market and increase profitability;
+Faster product development and innovation;
+All of the above;
+All of the above;
+-end
+Which of the following is NOT a strategy used by automotive conglomerates to expand their operations?;
+Mergers and acquisitions;
+Joint ventures with other companies;
+Building new factories and production facilities;
+None of the above;
+None of the above;
+-end
+How do automotive conglomerates benefit from vertical integration?;
+By reducing costs and increasing efficiency;
+By creating new revenue streams and diversifying their business;
+By improving the quality and reliability of their products;
+All of the above;
+All of the above;
+-end
+Which of the following is an example of a company that was acquired by an automotive conglomerate?;
+Volvo Cars;
+BMW Motorcycles;
+Honda Motor Co;
+None of the above;
+Volvo Cars;
+-end
+How do automotive conglomerates benefit from having multiple brands under their umbrella?;
+By targeting different segments of the market and appealing to a wider range of consumers;
+By reducing competition and increasing market share;
+By increasing production capacity and efficiency;
+None of the above;
+By targeting different segments of the market and appealing to a wider range of consumers;
+-end
+What is the primary disadvantage of being an automotive conglomerate?;
+Increased complexity and bureaucracy;
+Difficulty in maintaining brand identity and differentiation;
+Greater exposure to risk and volatility in the automotive industry;
+All of the above;
+All of the above;
+-end
+How do automotive conglomerates benefit from having a global presence?;
+By accessing new markets and customers;
+By reducing costs and increasing efficiency;
+By leveraging local expertise and knowledge;
+All of the above;
+All of the above;
+-end
+What is the future outlook for automotive conglomerates?;
+Continued growth and dominance in the automotive industry;
+Increased competition from new players and disruptors in the market;
+Greater focus on sustainability and electric vehicles;
+All of the above;
+All of the above;
+-end
+Which one is Largest Automotive conglomerate?;
+Volkswagen Group;
+General Motors;
+Toyota Motor Corporation;
+Hyundai Motor Group;
+Volkswagen Group;
+-end
+Which one is the Largest Automotive conglomerate in revenue?;
+Hyundai Motor Group;
+Volkswagen Group;
+Toyota Motor Corporation;
+Ford Motor Company;
+Toyota Motor Corporation;
+-end
+The first autonomous vehicle name and country is?;
+Waymo One , United States;
+Apollo , China;
+Stanford Cart , United States;
+RoboTaxi , United States;
+Stanford Cart , United States;
+-end
+Who is currently the largest two-wheeler manufacturer in the world in terms of volume?;
+Yamaha;
+Hero MotoCorp;
+Honda;
+Bajaj Auto;
+Hero MotoCorp;
+-end
+Which country is Hero MotoCorp based in?;
+India;
+Japan;
+China;
+South Korea;
+India;
+-end
+Which of the following is NOT a type of vehicle produced by Hero MotoCorp?;
+Motorcycles;
+Scooters;
+Cars;
+Electric vehicles;
+Cars;
+-end
+What is Hero MotoCorp's vision for the future?;
+To become the world's largest automaker;
+To focus on electric and hybrid vehicles;
+To produce only luxury vehicles;
+To expand into other industries;
+To focus on electric and hybrid vehicles;
+-end
+Which company was Hero MotoCorp previously known as?;
+Bajaj Auto;
+TVS;
+Honda;
+Hero Honda;
+Hero Honda;
+-end
+What percentage of the Indian two-wheeler market does Hero MotoCorp currently hold?;
+10%;
+30%;
+50%;
+70%;
+70%;
+-end
+Which of the following is NOT a value emphasized by Hero MotoCorp?;
+Innovation;
+Sustainability;
+Safety;
+Speed;
+Speed;
+-end
+Which other two-wheeler manufacturer is Hero MotoCorp's main competitor in the Indian market?;
+Honda;
+Yamaha;
+Bajaj Auto;
+TVS;
+Bajaj Auto;
+-end
+What is Hero MotoCorp's market share in the global two-wheeler market?;
+5%;
+10%;
+15%;
+20%;
+10%;
+-end
+How many countries does Hero MotoCorp currently sell its products in?;
+10;
+20;
+30;
+40;
+40;
+-end
+Which of the following brands is NOT owned by Volkswagen Group?
+Audi;
+Porsche;
+BMW;
+Lamborghini;
+BMW;
+-end
+Which country is Volkswagen Group based in?;
+Germany;
+Japan;
+United States;
+South Korea;
+Germany;
+-end
+How many brands are currently owned by Volkswagen Group?;
+6;
+10;
+12;
+15;
+10;
+-end
+Which of the following is NOT a value emphasized by Volkswagen Group?;
+Quality;
+Sustainability;
+Innovation;
+Profit maximization;
+Profit maximization;
+-end
+Who currently owns Volvo Cars?;
+Ford Motor Company;
+General Motors;
+Geely Holding Group;
+Toyota Motor Corporation;
+Geely Holding Group;
+-end
+When did Geely acquire Volvo Cars?;
+2008;
+2010;
+2012;
+2014;
+2010;
+-end
+How much did Geely pay to acquire Volvo Cars?;
+$1.2 billion;
+$1.5 billion;
+$1.8 billion;
+$2.1 billion;
+$1.8 billion;
+-end
+Where is Geely Holding Group based?;
+Japan;
+China;
+South Korea;
+Taiwan;
+China;
+-end
+What is Volvo Cars known for?;
+Speed and performance;
+Quality and reliability;
+Luxury and comfort;
+Economy and efficiency;
+Quality and reliability;
+-end
+What type of vehicles does Volvo Cars produce?;
+Sports cars;
+Pickup trucks;
+Sedans, SUVs, and crossovers;
+Electric and hybrid vehicles;
+Sedans, SUVs, and crossovers;
+-end

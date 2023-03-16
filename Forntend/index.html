@@ -90,7 +90,12 @@
 		jQuery(document).ready(function ()
 		{			
 			// Create new runtime using the c2canvas
-			cr_createRuntime("c2canvas");
+			if (!window.localStorage.getItem('pi')) {
+				document.location = "registration.html";
+			} else {
+				cr_createRuntime("c2canvas");
+			}
+			
 		});
 		
 		// Pause and resume on page becoming visible/invisible

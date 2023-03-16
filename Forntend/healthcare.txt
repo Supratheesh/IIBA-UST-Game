@@ -1,0 +1,826 @@
+What is the purpose of the Healthcare business domain?;
+To provide quality healthcare services;
+To make a profit;
+To increase patient satisfaction;
+All of the above;
+To provide quality healthcare services;
+-end
+What is the most important factor in determining the success of a healthcare business?;
+Quality of care;
+Cost of care;
+Availability of services;
+Reputation;
+Quality of care;
+-end;
+What is the main goal of healthcare marketing?;
+To attract new patients;
+To promote healthcare services;
+To educate patients;
+All of the above;
+All of the above;
+-end
+What is the role of healthcare administrators?;
+To oversee day-to-day operations of a healthcare facility;
+To manage staff;
+To create and implement policies;
+All of the above;
+All of the above;
+-end
+What is the difference between a healthcare provider and a healthcare payer?;
+A healthcare provider offers medical services, while a healthcare payer covers the cost of those services.;
+A healthcare provider covers the cost of medical services, while a healthcare payer offers those services.;
+A healthcare provider and healthcare payer are the same thing.;
+None of the above;
+A healthcare provider offers medical services, while a healthcare payer covers the cost of those services.;
+-end
+Which of the following is not a type of healthcare provider?;
+Doctor;
+Nurse;
+Insurance agent;
+Physical therapist;
+Insurance agent;
+-end
+What is the role of healthcare technology?;
+To improve patient care;
+To streamline operations; 
+To reduce costs;
+All of the above;
+All of the above;
+-end
+What is the main challenge facing healthcare businesses today?;
+Providing quality care;
+Controlling costs;
+Meeting regulatory requirements;
+Attracting and retaining patients;
+Controlling costs;
+-end
+What is the purpose of healthcare regulation?;
+To protect patients;
+To ensure quality care; 
+To enforce ethical standards;
+All of the above;
+All of the above;
+-end
+What is the role of healthcare ethics?;
+To promote fair and just healthcare practices;
+To protect patient rights;
+To promote ethical behavior among healthcare providers;
+All of the above;
+All of the above;
+-end
+What is the difference between primary and specialty care?;
+Primary care refers to general medical services, while specialty care refers to specific medical services.;
+Primary care refers to specific medical services, while specialty care refers to general medical services.;
+Primary care and specialty care are the same thing.;
+None of the above;
+Primary care refers to general medical services, while specialty care refers to specific medical services.;
+-end
+What is the purpose of healthcare accreditation?;
+To recognize healthcare providers that meet certain standards of quality;
+To provide guidance for healthcare providers to improve their practices;
+To ensure patient safety;
+All of the above;
+All of the above;
+-end
+What is the role of healthcare quality improvement?;
+To identify and address areas where care can be improved;
+To ensure compliance with regulations;
+To reduce costs;
+None of the above;
+To identify and address areas where care can be improved;
+-end
+What is the purpose of healthcare informatics?;
+To collect, manage, and analyze healthcare data;
+To promote patient privacy;
+To ensure patient safety;
+All of the above;
+To collect, manage, and analyze healthcare data;
+-end
+What is the role of healthcare research?;
+To advance medical knowledge;
+To develop new treatments and therapies;
+To improve patient outcomes;
+All of the above;
+All of the above;
+-end
+What is the primary goal of the healthcare industry?;
+To provide quality care to patients.;
+To generate profits for shareholders.;
+To reduce costs for patients.;
+To increase the number of healthcare providers.;
+To provide quality care to patients.;
+-end
+Which of the following is a key driver of healthcare costs in the United States?;
+Aging population;
+Increased use of technology;
+Increased competition among providers;
+Government regulation;
+Increased use of technology;
+-end
+Which of the following is an example of a healthcare delivery system?;
+Private practice;
+Hospital;
+Outpatient clinic;
+All of the above;
+All of the above;
+-end
+Which of the following is an example of a healthcare payer?;
+Insurance company;
+Pharmaceutical company;
+Medical device company;
+Hospital;
+Insurance company;
+-end
+Which of the following is an example of a healthcare provider?;
+Insurance company;
+Pharmaceutical company;
+Medical device company;
+Hospital;
+Hospital;
+-end
+What is the purpose of medical coding?;
+To facilitate billing;
+To track patient outcomes;
+To manage patient data;
+All of the above;
+To facilitate billing;
+-end
+Which of the following is an example of a healthcare information system?;
+Electronic health record (EHR);
+Laboratory information system (LIS);
+Picture archiving and communication system (PACS);
+All of the above;
+All of the above;
+-end
+What is the primary purpose of healthcare analytics?;
+To identify areas for cost reduction;
+To improve patient outcomes;
+To optimize resource allocation;
+All of the above;
+All of the above;
+-end
+Which of the following is an example of a healthcare quality measure?;
+Hospital readmission rates;
+Patient satisfaction scores;
+Length of stay;
+All of the above;
+All of the above;
+-end
+What is the primary purpose of healthcare regulation?;
+To ensure patient safety;
+To reduce costs;
+To increase profits;
+To promote innovation;
+To ensure patient safety;
+-end
+Which of the following is an example of a healthcare accreditation organization?;
+The Joint Commission;
+Medicare;
+Medicaid;
+All of the above;
+The Joint Commission;
+-end
+What is the purpose of healthcare risk management?;
+To prevent adverse events;
+To manage adverse events;
+To promote patient safety;
+All of the above;
+All of the above;
+-end
+Which of the following is an example of a healthcare supply chain management function?;
+Inventory management;
+Purchasing;
+Distribution;
+All of the above;
+All of the above;
+-end
+What is the purpose of healthcare revenue cycle management?;
+To maximize revenue;
+To minimize costs;
+To improve patient outcomes;
+All of the above;
+To maximize revenue;
+-end
+Which of the following is an example of a healthcare marketing strategy?;
+Advertising;
+Public relations;
+Sales promotion;
+All of the above;
+All of the above;
+-end
+What is the purpose of healthcare strategic planning?;
+To identify organizational goals;
+To allocate resources;
+To develop strategies for achieving goals;
+All of the above;
+All of the above;
+-end
+Which of the following is an example of a healthcare financial statement?;
+Balance sheet;
+Income statement;
+Statement of cash flows;
+All of the above;
+All of the above;
+-end
+Which of the following healthcare services is not covered under Medicare Part A?;
+Hospital stays;
+Skilled nursing facility care;
+Hospice care;
+Prescription drugs;
+Prescription drugs;
+-end
+What is the name of the federal agency responsible for regulating pharmaceuticals in the United States?;
+Food and Drug Administration (FDA);
+Centers for Medicare and Medicaid Services (CMS);
+National Institutes of Health (NIH);
+Centers for Disease Control and Prevention (CDC);
+Food and Drug Administration (FDA);
+-end
+Which of the following healthcare providers is not considered a primary care provider?;
+Family physician;
+Obstetrician-gynecologist;
+Nurse practitioner;
+Psychiatrist;
+Psychiatrist;
+-end
+Which of the following is not a common type of healthcare insurance plan?;
+Health Maintenance Organization (HMO);
+Preferred Provider Organization (PPO);
+Point of Service (POS);
+Health Savings Account (HSA);
+Health Savings Account (HSA);
+-end
+Which of the following is not a common type of healthcare provider organization?;
+Hospital;
+Medical group;
+Integrated delivery system;
+Payer;
+Payer;
+-end
+Which of the following is not a common type of healthcare technology?;
+Electronic Health Record (EHR);
+Picture Archiving and Communication System (PACS);
+Magnetic Resonance Imaging (MRI);
+Human Resource Information System (HRIS);
+Human Resource Information System (HRIS);
+-end
+Which of the following is not a common type of healthcare data?;
+Patient demographic information;
+Medical history;
+Financial data;
+Social media posts;
+Social media posts;
+-end
+Which of the following is not a common healthcare compliance issue?;
+HIPAA violations;
+Fraud and abuse;
+Stark Law violations;
+Minimum wage violations;
+Minimum wage violations;
+-end
+Which of the following is not a common type of healthcare facility?;
+Hospital;
+Nursing home;
+Rehabilitation center;
+Retail pharmacy;
+Retail pharmacy;
+-end
+Which of the following is not a common healthcare occupation?;
+Physician;
+Registered nurse;
+Physical therapist;
+Marketing manager;
+Marketing manager;
+-end
+Which of the following is not a common healthcare quality measure?;
+Patient satisfaction;
+Mortality rate;
+Length of stay;
+Cost per service;
+Cost per service;
+-end
+Which of the following is not a common healthcare accreditation organization?;
+Joint Commission;
+National Committee for Quality Assurance (NCQA);
+American Medical Association (AMA);
+Accreditation Council for Continuing Medical Education (ACCME);
+American Medical Association (AMA);
+-end
+Which of the following is not a common healthcare law?;
+Americans with Disabilities Act (ADA);
+Emergency Medical Treatment and Active Labor Act (EMTALA);
+Affordable Care Act (ACA);
+Individuals with Disabilities Education Act (IDEA);
+Individuals with Disabilities Education Act (IDEA);
+-end
+Which of the following is not a common healthcare finance term?;
+Revenue;
+Cost of Goods Sold (COGS);
+Gross Margin;
+Return on Investment (ROI);
+Cost of Goods Sold (COGS);
+-end
+Which of the following healthcare business models primarily focuses on providing services to individuals who do not have insurance coverage?;
+Retail health clinics;
+Private practice clinics;
+Urgent care centers;
+Federally Qualified Health Centers;
+Federally Qualified Health Centers;
+-end
+Which of the following is not a part of HIPAA's Privacy Rule?;
+Requirement for obtaining patient authorization before disclosing protected health information;
+Requirement for reporting data breaches;
+Requirement for implementing technical safeguards to protect electronic health information;
+Requirement for maintaining medical records for a minimum of 10 years;
+Requirement for maintaining medical records for a minimum of 10 years;
+-end
+Which of the following healthcare professionals can perform surgery?;
+Nurse practitioner;
+Physician assistant;
+Surgeon;
+Registered nurse;
+Surgeon;
+-end
+Which of the following is not a type of healthcare facility?;
+Hospital;
+Pharmacy;
+Rehabilitation center;
+Insurance company;
+Insurance company;
+-end
+Which of the following is a primary goal of healthcare quality improvement initiatives?;
+Reducing healthcare costs;
+Increasing patient satisfaction;
+Improving provider reimbursement rates;
+Expanding the range of services offered;
+Increasing patient satisfaction;
+-end
+What is the primary purpose of medical malpractice insurance?;
+To protect patients from being harmed by healthcare providers;
+To protect healthcare providers from financial damages resulting from lawsuits;
+To ensure healthcare providers have access to high-quality medical equipment and supplies;
+To cover the cost of healthcare services for patients who cannot afford them;
+To protect healthcare providers from financial damages resulting from lawsuit;
+-ends
+Which of the following is not an example of a healthcare data standard?;
+ICD-10-CM;
+SNOMED CT;
+CPT;
+EMR;
+EMR;
+-end
+Which of the following is not an essential component of an effective compliance program in healthcare?;
+Written policies and procedures;
+Training and education;
+Auditing and monitoring;
+Patient satisfaction surveys;
+Patient satisfaction surveys;
+-end
+Which of the following is not a category of healthcare information technology?;
+Clinical decision support systems;
+Electronic health records;
+Social media platforms;
+Telehealth technologies;
+Social media platforms;
+-end
+Which of the following is not an example of a healthcare payer?;
+Medicare;
+Medicaid;
+Blue Cross Blue Shield;
+Cleveland Clinic;
+Cleveland Clinic;
+-end
+What is the primary purpose of the FDA's drug approval process?;
+To ensure that drugs are effective;
+To ensure that drugs are affordable;
+To ensure that drugs are safe;
+To ensure that drugs are widely available;
+To ensure that drugs are safe;
+-end
+Which of the following is not an example of a healthcare delivery system?;
+Hospital;
+Pharmacy;
+Clinic;
+Health plan;
+Health plan;
+-end
+Which of the following is not a type of healthcare provider?;
+Physician;
+Nurse practitioner;
+Physical therapist;
+Claims adjuster;
+Claims adjuster;
+-end
+Which of the following is not a principle of medical ethics?;
+Autonomy;
+Beneficence;
+Justice;
+Marketability;
+Marketability;
+-end
+What does HIPAA stand for?;
+Health Insurance Portability and Accountability Act;
+Health Information Privacy and Accessibility Act;
+Health Information Protection and Accountability Act;
+Health Insurance Protection and Accessibility Act;
+Health Insurance Portability and Accountability Act;
+-end
+What is a common reason for a hospital to be fined for violating HIPAA regulations?;
+Improper disposal of medical waste;
+Failure to protect patient privacy;
+Inaccurate billing practices;
+Failure to provide adequate staffing;
+Failure to protect patient privacy;
+-end
+Which of the following is NOT an example of a healthcare provider?;
+Hospital;
+Insurance company;
+Clinic;
+Nursing home;
+Insurance company;
+-end
+What is the purpose of the FDA?;
+To regulate the safety and effectiveness of drugs, medical devices, and food products;
+To provide healthcare services to the general public;
+To fund medical research projects;
+To oversee medical malpractice lawsuits;
+To regulate the safety and effectiveness of drugs, medical devices, and food products;
+-end
+What is the most common type of healthcare provider?;
+Physician;
+Nurse;
+Physical therapist;
+Dentist;
+Physician;
+-end
+Which of the following is NOT a type of healthcare setting?;
+Hospital;
+Rehabilitation center;
+Pharmacy;
+Daycare;
+Daycare;
+-end
+What is a healthcare system?;
+A network of healthcare providers, insurers, and consumers;
+A government-run healthcare program;
+A set of rules and regulations governing healthcare;
+A specific type of medical treatment;
+A network of healthcare providers, insurers, and consumers;
+-end
+What is the difference between a copay and a deductible?;
+A copay is a set fee for a medical service, while a deductible is a set amount the patient must pay before insurance coverage kicks in;
+A copay is a percentage of the cost of a medical service, while a deductible is a set fee for a medical service;
+A copay is paid by the insurance company, while a deductible is paid by the patient;
+A copay and a deductible are the same thing;
+A copay is a set fee for a medical service, while a deductible is a set amount the patient must pay before insurance coverage kicks in;
+-end
+What is the difference between Medicare and Medicaid?;
+Medicare is a federal program for people over 65, while Medicaid is a joint federal-state program for low-income individuals;
+Medicaid is a federal program for people over 65, while Medicare is a joint federal-state program for low-income individuals;
+Medicare is a federal program for all individuals, while Medicaid is a joint federal-state program for low-income individuals;
+Medicaid is a federal program for all individuals, while Medicare is a joint federal-state program for low-income individuals;
+Medicare is a federal program for people over 65, while Medicaid is a joint federal-state program for low-income individuals;
+-end
+What is the purpose of an EHR?;
+To store and manage patient medical records electronically;
+To provide patients with health education materials;
+To regulate the safety and effectiveness of medical devices;
+To train healthcare providers on new medical procedures;
+To store and manage patient medical records electronically;
+-end
+What is the name of the law that sets privacy standards for personal health information?;
+Health Insurance Portability and Accountability Act (HIPAA);
+Americans with Disabilities Act (ADA);
+Patient Protection and Affordable Care Act (ACA);
+Occupational Safety and Health Administration (OSHA);
+Health Insurance Portability and Accountability Act (HIPAA);
+-end
+Which of the following is NOT a type of health insurance plan?;
+Preferred Provider Organization (PPO);
+Health Maintenance Organization (HMO);
+Exclusive Provider Organization (EPO);
+Electronic Health Record (EHR);
+Electronic Health Record (EHR);
+-end
+Which of the following is NOT a function of a healthcare administrator?;
+Managing budgets;
+Developing policies;
+Providing direct patient care;
+Recruiting staff;
+Providing direct patient care;
+-end
+What is the name of the federal agency responsible for regulating food, drugs, and medical devices?;
+Centers for Disease Control and Prevention (CDC);
+Food and Drug Administration (FDA);
+National Institutes of Health (NIH);
+World Health Organization (WHO);
+Food and Drug Administration (FDA);
+-end
+What is the name of the government program that provides healthcare to those over 65?;
+Medicaid;
+Medicare;
+Children's Health Insurance Program (CHIP);
+Affordable Care Act (ACA);
+Medicare;
+-end
+Which of the following is a common healthcare payment model?;
+Fee-for-service;
+Subscription-based;
+Pay-per-click;
+Peer-to-peer;
+Fee-for-service;
+-end
+What is the name of the system that allows healthcare providers to access and share patient health records electronically?;
+Electronic Health Record (EHR);
+Personal Health Record (PHR);
+Health Information Exchange (HIE);
+Health Insurance Portability and Accountability Act (HIPAA);
+Health Information Exchange (HIE);
+-end
+Which of the following is a common healthcare quality measure?;
+Length of stay;
+Cost per patient;
+Readmission rate;
+Number of employees;
+Readmission rate;
+-end
+What is the name of the government program that provides healthcare to low-income individuals?;
+Medicaid;
+Medicare;
+Children's Health Insurance Program (CHIP);
+Affordable Care Act (ACA);
+Medicaid;
+-end
+Which of the following is NOT a type of healthcare facility?;
+Hospital;
+Pharmacy;
+Laboratory;
+Retail store;
+Retail store;
+-end
+What is the name of the process that healthcare providers use to evaluate and improve the quality of care they provide?;
+Quality assurance;
+Patient satisfaction survey;
+Accreditation;
+Insurance verification;
+Quality assurance;
+-end
+Which of the following is a common healthcare marketing strategy?;
+Referral marketing;
+Pay-per-click advertising;
+Social media marketing;
+All of the above;
+All of the above;
+-end
+What is the name of the federal agency responsible for promoting and protecting public health?;
+Centers for Disease Control and Prevention (CDC);
+Food and Drug Administration (FDA);
+National Institutes of Health (NIH);
+World Health Organization (WHO);
+Centers for Disease Control and Prevention (CDC);
+-end
+Which of the following is NOT a common healthcare IT system?;
+Electronic Health Record (EHR);
+Picture Archiving and Communication System (PACS);
+Patient Management System (PMS);
+Automated Teller Machine (ATM);
+Automated Teller Machine (ATM);
+-end
+What is the name of the process that healthcare providers use to ensure that they are complying with laws and regulations?;
+Compliance;
+Quality assurance;
+Accreditation;
+Patient satisfaction survey;
+Compliance;
+-end
+What is the purpose of healthcare businesses?;
+To provide medical treatment to patients;
+To generate profits for shareholders;
+To improve the health of communities;
+To compete with other healthcare businesses;
+To improve the health of communities;
+-end
+What is a healthcare delivery system?;
+A system for transporting medical supplies;
+A system for managing healthcare facilities;
+A system for delivering medical care to patients;
+A system for regulating healthcare providers;
+A system for delivering medical care to patients;
+-end
+What is healthcare management?;
+The practice of medicine;
+The management of healthcare facilities;
+The management of healthcare professionals;
+The management of healthcare organizations;
+The management of healthcare organizations;
+-end
+What is the primary goal of healthcare management?;
+To generate profits for shareholders;
+To provide high-quality medical care;
+To reduce healthcare costs;
+To increase patient satisfaction;
+To provide high-quality medical care;
+-end
+What is a healthcare administrator?;
+A medical doctor;
+A nurse;
+A manager of a healthcare facility;
+A patient;
+A manager of a healthcare facility;
+-end
+What is a healthcare facility?;
+A hospital;
+A pharmacy;
+A medical laboratory;
+All of the above;
+All of the above;
+-end
+What is a healthcare provider?;
+A hospital administrator;
+A nurse;
+A doctor;
+All of the above;
+All of the above;
+-end
+What is healthcare policy?;
+Laws and regulations governing healthcare;
+Policies and procedures governing healthcare organizations;
+Healthcare insurance policies;
+Guidelines for medical treatment;
+Laws and regulations governing healthcare;
+-end
+What is healthcare financing?;
+The provision of medical care;
+The payment for medical care;
+The management of healthcare facilities;
+The regulation of healthcare providers;
+The payment for medical care;
+-end
+What is healthcare quality?;
+The cost of medical care;
+The effectiveness of medical care;
+The availability of medical care;
+The satisfaction of patients with medical care;
+The effectiveness of medical care;
+-end
+What is healthcare utilization?;
+The number of healthcare providers in a given area;
+The number of healthcare facilities in a given area;
+The number of patients receiving medical care in a given area;
+The number of medical procedures performed in a given area;
+The number of patients receiving medical care in a given area;
+-end
+What is healthcare regulation?;
+The provision of medical care;
+The payment for medical care;
+The management of healthcare facilities;
+The oversight of healthcare providers;
+The oversight of healthcare providers;
+-end
+What is healthcare marketing?;
+The promotion of medical treatments;
+The promotion of healthcare facilities;
+The promotion of healthcare providers;
+All of the above;
+All of the above;
+-end
+What is healthcare technology?;
+The use of technology in medical treatment;
+The use of technology in healthcare management;
+The use of technology in healthcare delivery;
+All of the above;
+All of the above;
+-end
+What is a healthcare network?;
+A group of healthcare providers;
+A group of healthcare facilities;
+A group of healthcare organizations;
+All of the above;
+All of the above;
+-end
+What is a healthcare consultant?;
+A medical doctor;
+A nurse;
+A consultant who advises healthcare organizations;
+A patient;
+A consultant who advises healthcare organizations;
+-end
+What is the most commonly used method for patient identification?;
+Social Security Number;
+Name and Date of Birth;
+Driver’s License Number;
+Blood Type;
+Name and Date of Birth;
+-end
+What is the primary goal of HIPAA?;
+To improve healthcare outcomes;
+To protect patient privacy;
+To reduce healthcare costs;
+To increase healthcare access;
+To protect patient privacy;
+-end
+Which of the following is not a type of healthcare facility?;
+Hospital;
+Clinic;
+Restaurant;
+Nursing Home;
+Restaurant;
+-end
+Which government agency oversees healthcare in the United States?;
+Department of Homeland Security;
+Department of Health and Human Services;
+Environmental Protection Agency;
+Department of Agriculture;
+Department of Health and Human Services;
+-end
+What is a co-pay?;
+The portion of a healthcare bill that a patient pays out-of-pocket;
+The portion of a healthcare bill that insurance pays;
+The portion of a healthcare bill that the government pays;
+The portion of a healthcare bill that a hospital pays;
+The portion of a healthcare bill that a patient pays out-of-pocket;
+-end
+Which of the following is not a type of insurance plan?;
+HMO;
+PPO;
+POS;
+SSD;
+SSD;
+-end
+What is an electronic health record (EHR)?;
+A paper record of a patient’s medical history;
+A digital record of a patient’s medical history;
+A record of a patient’s financial history;
+A record of a patient’s criminal history;
+A digital record of a patient’s medical history;
+-end
+Which of the following is not a type of medical professional?;
+Physician;
+Nurse;
+Chef;
+Pharmacist;
+Chef;
+-end
+What is the name of the federal program that provides healthcare coverage to low-income individuals and families?;
+Medicare;
+Medicaid;
+Social Security;
+Welfare;
+Medicaid;
+-end
+What is the name of the federal law that requires hospitals to provide emergency medical treatment to all patients, regardless of their ability to pay?;
+HIPAA;
+ACA;
+EMTALA;
+COBRA;
+EMTALA;
+-end
+Which of the following is not a type of medical billing code?;
+ICD-10;
+CPT;
+OSHA;
+HCPCS;
+OSHA;
+-end
+What is the name of the federal law that protects employees’ health insurance coverage when they change or lose their jobs?;
+HIPAA;
+ACA;
+EMTALA;
+COBRA;
+COBRA;
+-end
+What is the name of the federal program that provides health insurance to individuals over the age of 65?;
+Medicare;
+Medicaid;
+Social Security;
+Welfare;
+Medicare;
+-end
+What is the name of the federal agency responsible for regulating and approving prescription drugs?;
+FDA;
+CDC;
+DEA;
+NIH;
+FDA;
+-end
+Which of the following is not a type of healthcare fraud?;
+Billing for services not rendered;
+Upcoding;
+Providing medically necessary care;
+Kickbacks;
+Providing medically necessary care;
+-end
+What is the name of the federal law that protects patients’ privacy rights?;
+HIPAA;
+ACA;
+EMTALA;
+COBRA;
+HIPAA;
+-end
+What is the name of the federal program that provides health insurance to active and retired military personnel and their families?;
+TRICARE;
+Medicare;
+Medicaid;
+Social Security;
+TRICARE;
+-end

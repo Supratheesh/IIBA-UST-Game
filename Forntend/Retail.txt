@@ -1,0 +1,712 @@
+What is an accounting method that records the sale or purchase of inventory through a computerized point-of-sale (POS) system.;
+Perpetual inventory;
+Managerial accounting
+Anticipation inventory
+Auditing
+Perpetual inventory
+-end
+Which of the following has become more popular since the beginning of the COVID19 pandemic.;
+Purchasing by Requirement;
+Virtual Fitting Room;
+Speculative Purchasing;
+Cash purchases;
+Virtual Fitting Room;
+-end
+Which is one of the most common pricing tools used for Psychological Pricing.;
+Charm pricing;
+Price Skimming;
+Economy pricing;
+Value-based pricing;
+Charm pricing;
+-end
+The _____ allows you to regularly update your inventory records to help prevent situations like running out of stock.;
+Perpetual inventory;
+Auditing;
+Cycle inventory;
+Periodic Inventory;
+Perpetual inventory;
+-end
+The small, printed tickets attached to a retail shelf are called;
+Signs;
+Shelf talkers;
+Price Tags;
+Info Tags;
+Shelf talkers;
+-end
+Purchasing things online using just voice and a compatible smart device is termed as;
+Voice purchase;
+Voice trade;
+Voice commerce;
+Voice buying;
+Voice commerce;
+-end
+The clothing which moves from the catwalk or fashion shows to stores quickly is referred as;
+Fashion trend;
+Quick Fashion;
+Fashion idea;
+Fast Fashion;
+Fast Fashion;
+-end
+What is a trading format based on discount pricing;
+Flash sale;
+Off-sale;
+Off-price;
+Predatory pricing;  
+Off-sale;
+-end
+Which of the following is used by the managers to track trends in the annual sales?;
+Sales forecast;
+Demand forecasting;
+Sales Index;
+None of this;   
+Sales Index;
+-end
+Which of the following is not a key factor in 'Retail Mix’?;
+Purchase;
+Product;
+Promotion; 
+Personnel;     
+Purchase;
+-end
+What is a business whereby the owner licenses its operations—along with its products, branding, and knowledge—in exchange for a fee;
+Contract;
+Outsourcing;
+Franchise;
+Branding;
+Franchise;
+-end
+What refers to retailers that integrate their brick-and-mortar store with their ecommerce site.;
+Brick and click;
+Bulk breaking;
+Bundle pricing; 
+Break-even point;
+Brick and click;
+-end
+The process you specify information about the Customer, the ship-to and bill-to addresses, the payment where terms, the order type, the price list, the unit price and the warehouse.;
+Order Fulfilment;
+Order Management;
+Credit Management;
+None of the above;
+Order Management;
+-end
+In this stage, the order is pick released and the items are brought from the sub inventory to the staging area.;
+Scheduling;
+Shipping;
+Delivery;
+Both Scheduling and Shipping;
+Shipping;
+-end
+What is a type of pricing that aims at appealing to a customer’s emotional side;
+Competitive pricing;
+Cost-plus pricing;
+Psychological Pricing;
+Economy pricing;
+Psychological Pricing;
+-end
+A cloud-based POS system for retail can help businesses can significantly reduce human error and improve retail inventory management through automation. Select the benefits of Cloud POS;
+Fast payments;
+Less downtime;
+Accept payments on any device;
+All of the above;
+All of the above;
+-end
+What refers to as information technology security, focuses on protecting computers, networks, programs, and data from unintended or unauthorized access, change or destruction. Basic elements of cybersecurity include:;
+Cyber security;
+Cyber threat;
+Cyber risk;
+Cyber bullying;
+Cyber security;
+-end
+What refers to a consumer's decision to purchase a more expensive product because of the brand value they feel it delivers.;
+Trading up;
+Branding;
+Premium marketing;
+Decision making;
+Trading up;
+-end
+What is an interactive experience that combines the real world and computer-generated content;
+Dynamic reality;
+Augmented reality;
+Component reality;
+None of the above;
+Augmented reality;
+-end
+What is the most powerful social media site for sharing and marketing your content.;
+Twitter;
+Facebook;
+Snapchat;
+Orkut;
+Twitter;
+-end
+What is the process of building up online shopping cart is called?;
+Cart Filling;
+Basket Filling;
+Cart Building;
+Basket Building;
+Basket Building;
+-end
+Full Form of TOFU?;
+Transport of Furniture;
+Top of the Funnel;
+Tranfer of Funds;
+Track of Funds;
+-end
+Full Form of PPI;
+Pre-Purchase-Invoice;
+Post-Purchase-Invoice;
+Pay-Per-Impression;
+Pay-Post-Investment;
+Pay-Per-Impression;
+-end
+The process of optimizing website is called as;
+Search Engine Optimization;
+Webite Optimization;
+Data Optimization;
+Browser Optimization;
+Search Engine Optimization;
+-end
+Usage of social media to sell products is called as;
+E-Commerce;
+Online Marketing;
+Social Selling;
+Global Selling;
+Social Selling;
+-end
+The mean value of a company's inventory over a specific period id called as;
+Standard Cost;
+Average Inventory Cost;
+Purchase Cost;
+Median Inventory Cost;
+-end
+Full Form of ROPO;
+Research Offline Purchase Online;
+Research Online Purchase Offline;
+Research Online Purchase Online;
+Research Offline Purchase Offline;
+Research Online Purchase Offline;
+-end
+What is the definition of a retail business?;
+A business that sells goods or services directly to consumers;
+A business that sells goods or services to other businesses;
+A business that provides services to consumers;
+A business that provides services to other businesses;
+A business that sells goods or services directly to consumers;
+-end
+What is the most important factor in determining the success of a retail business?
+Location;
+Product quality;
+Marketing strategy;
+;
+Location;
+-end
+What is the term used to describe the process of selecting and managing a retail store's product offerings?;
+Inventory management;
+Supply chain management;
+Merchandising;
+;
+Merchandising;
+-end
+What is the primary goal of merchandising in a retail business?
+To maximize sales and profitability;
+To reduce costs;
+To provide excellent customer service;
+;
+To maximize sales and profitability;
+-end
+Which of the following is an example of a brick-and-mortar retail store?;
+Amazon;
+Walmart;
+eBay;
+;
+Walmart;
+-end
+Which of the following is an example of an e-commerce retail store?;
+Walmart;
+Target;
+Amazon;
+;
+Amazon;
+-end
+What is the term used to describe the process of selecting and managing a retail store's physical location?;
+Location selection;
+Site selection;
+Place selection;
+;
+Site selection;
+-end
+What is the term used to describe the process of pricing products to maximize profit?;
+Cost-plus pricing;
+Value-based pricing;
+Competitive pricing;
+;
+Cost-plus pricing;
+-end
+What is the term used to describe the process of setting prices based on the perceived value of the product?;
+Cost-plus pricing;
+Value-based pricing;
+Competitive pricing;
+;
+Value-based pricing;
+-end
+What is the term used to describe the process of promoting a retail store or its products?;
+Advertising;
+Marketing;
+Public relations;
+;
+Marketing;
+What is the term used to describe the process of forecasting future sales and inventory needs?;
+Inventory management;
+Demand planning;
+Sales forecasting;
+;
+Sales forecasting;
+-end
+What is the term used to describe the process of managing a retail store's physical inventory?;
+Inventory management;
+Supply chain management;
+Merchandising;
+;
+Inventory management;
+-end
+What is the term used to describe the process of analyzing customer data to make business decisions?;
+Data mining;
+Market research;
+Sales analysis;
+;
+Data mining;
+-end
+What is the term used to describe the process of grouping products together to increase sales?;
+Product bundling;
+Product segmentation;
+Product differentiation;
+;
+Product bundling;
+-end
+Which of the following is an example of a category killer retail store?;
+Best Buy;
+Target;
+Walmart;
+;
+Best Buy;
+-end
+What is the term used to describe the process of selecting suppliers for a retail store's products?;
+Vendor selection;
+Supplier management;
+Procurement;
+;
+Vendor selection;
+-end
+What is the term used to describe the process of analyzing a retail store's financial data?;
+Financial analysis;
+Accounting;
+Bookkeeping;
+;
+Financial analysis;
+-end
+What is the term used to describe the process of managing a retail store's employees?;
+Human resources;
+Employee management;
+Personnel management;
+;
+Human resources;
+-end
+What is the term used to describe the process of creating a retail store's visual identity?;
+Branding;
+Marketing;
+Advertising;
+;
+Branding;
+-end
+What is the term used to describe the process of designing a retail store's layout?;
+Store design;
+Space planning;
+Store planning;
+;
+Space planning;
+-end
+What is the term used to describe the process of creating a retail store's marketing materials?;
+Advertising;
+Promotion;
+Branding;
+;
+Promotion;
+-end
+What is the term used to describe the process of managing a retail store's cash flow?;
+Financial management;
+Cash management;
+Treasury management;
+;
+Cash management;
+-end
+What is the term used to describe the process of managing a retail store's online presence?;
+E-commerce management;
+Online marketing;
+Web management;
+;
+E-commerce management;
+-end
+What is the term used to describe the process of managing a retail store's customer relationships?;
+Customer service;
+Customer experience;
+Customer relationship management;
+;
+Customer relationship management;
+-end
+What is the term used to describe the practice of displaying products near the checkout to encourage impulse purchases?;
+Endcap;
+Gondola;
+Point of sale;
+;
+Endcap;
+-end
+What is the term used to describe the process of setting prices for a retail store's products?;
+Pricing strategy;
+Price management;
+Cost analysis;
+;
+Pricing strategy;
+-end
+What is the term used to describe the process of managing a retail store's inventory?;
+Inventory management;
+Stock control;
+Supply chain management;
+;
+Inventory management;
+-end
+What is the term used to describe the process of analyzing a retail store's sales data?;
+Sales analysis;
+Business intelligence;
+Data mining;
+;
+Business intelligence;
+-end
+What is the term used to describe the process of promoting a retail store's products through advertising?;
+Advertising campaign;
+Promotional strategy;
+Marketing mix;
+;
+Advertising campaign;
+-end
+What is the term used to describe the process of managing a retail store's social media presence?;
+Social media management;
+Online reputation management;
+Digital marketing;
+;
+Social media management;
+-end
+What is the term used to describe the process of analyzing a retail store's customer data?;
+Customer analytics;
+Consumer behavior analysis;
+Market research;
+;
+Customer analytics;
+-end
+What is the term used to describe the process of managing a retail store's supply chain?;
+Supply chain management;
+Logistics management;
+Vendor management;
+;
+Supply chain management;
+-end
+What is the term used to describe the process of managing a retail store's customer service operations?;
+Customer service management;
+Customer experience management;
+Customer satisfaction management;
+;
+Customer service management;
+-end
+Which of the following is an example of a retailer that primarily sells luxury products?;
+Walmart;
+Target;
+Neiman Marcus;
+;
+Neiman Marcus;
+-end
+Which of the following is an example of a pricing strategy used by retailers to encourage customers to purchase more items?;
+Penetration pricing;
+Bundling;
+Skimming pricing;
+;
+Bundling;
+-end
+Which of the following is an example of a retail format that offers a wide variety of products, often at discount prices?;
+Department store;
+Specialty store;
+Boutique;
+;
+Department store;
+-end
+Which of the following is an example of a technology used by retailers to track inventory levels and customer behavior?;
+RFID;
+NFC;
+Bluetooth;
+;
+RFID;
+-end
+Which of the following is an example of a promotional strategy used by retailers to reward customers for repeat purchases?;
+Coupons;
+Loyalty programs;
+Referral bonuses;
+;
+Loyalty programs;
+-end
+Which of the following is an example of a retail format that focuses on selling a specific category of products?;
+Convenience store;
+Supermarket;
+Pet store;
+;
+Pet store;
+-end
+Which of the following is an example of a retail format that operates online only?;
+Brick-and-mortar store;
+Pop-up store;
+E-commerce store;
+;
+E-commerce store;
+-end
+Which of the following is an example of a retail format that focuses on providing a unique and personalized shopping experience?;
+Department store;
+Luxury store;
+Pop-up store;
+;
+Luxury store;
+-end
+Which of the following is an example of a pricing strategy used by retailers to sell products at a high initial price?;
+Penetration pricing;
+Skimming pricing;
+Discount pricing;
+;
+Skimming pricing;
+-end
+Which of the following is an example of a retail format that offers products at very low prices?;
+Discount store;
+Outlet store;
+Luxury store;
+;
+Discount store;
+-end
+Which of the following is an example of a retail format that focuses on selling products that are environmentally friendly or socially responsible?;
+Organic store;
+Specialty store;
+Convenience store;
+;
+Organic store;
+-end
+Which of the following is an example of a promotional strategy used by retailers to encourage customers to make purchases immediately?;
+Coupons;
+Flash sales;
+Referral bonuses;
+;
+Flash sales;
+-end
+Which of the following is an example of a retail format that offers products that are typically used for personal care and grooming?;
+Department store;
+Drugstore;
+Pet store;
+;
+Drugstore;
+-end
+Which of the following is an example of a technology used by retailers to personalize the shopping experience for customers?;
+Chatbots;
+Augmented reality;
+Virtual reality;
+;
+Augmented reality;
+-end
+Which of the following is an example of a pricing strategy used by retailers to sell products at lower prices than competitors?;
+Penetration pricing;
+Skimming pricing;
+Discount pricing;
+;
+Discount pricing;
+-end
+Which
+Which of the following is an example of a retail format that offers products at low prices but with limited selection?;
+Supermarket;
+Discount store;
+Department store;
+;
+Discount store;
+-end
+Which of the following is an example of a promotional strategy used by retailers to increase customer engagement?;
+Referral bonuses;
+Free samples;
+Cashback offers;
+;
+Free samples;
+-end
+Which of the following is an example of a pricing strategy used by retailers to attract price-sensitive customers?;
+Penetration pricing;
+Skimming pricing;
+Odd pricing;
+;
+Odd pricing;
+-end
+Which of the following is an example of a retail format that offers products that are typically used for home improvement?;
+Hardware store;
+Department store;
+Luxury store;
+;
+Hardware store;
+-end
+Which of the following is an example of a technology used by retailers to improve the checkout process?;
+Mobile payment;
+Augmented reality;
+Virtual reality;
+;
+Mobile payment;
+-end
+Which of the following is an example of a promotional strategy used by retailers to sell more products to customers?;
+Cross-selling;
+Upselling;
+Loyalty programs;
+;
+Upselling;
+-end
+Which of the following is an example of a pricing strategy used by retailers to sell products at a price that is perceived as fair?;
+Penetration pricing;
+Skimming pricing;
+Value-based pricing;
+;
+Value-based pricing;
+-end
+Which of the following is an example of a technology used by retailers to provide personalized recommendations to customers?;
+Chatbots;
+Virtual assistants;
+Artificial intelligence;
+;
+Artificial intelligence;
+-end
+Which of the following is an example of a promotional strategy used by retailers to encourage customers to make larger purchases?;
+Coupons;
+Bundle pricing;
+Referral bonuses;
+;
+Bundle pricing;
+-end
+Which of the following is an example of a retail format that offers products that are typically used for personal fashion and style?;
+Department store;
+Boutique;
+Discount store;
+;
+Boutique;
+-end
+Which of the following is an example of a pricing strategy used by retailers to sell products at a high initial price and then gradually lower the price over time?;
+Penetration pricing;
+Skimming pricing;
+Prestige pricing;
+;
+Skimming pricing;
+-end
+Which of the following is an example of a promotional strategy used by retailers to encourage customers to return and make repeat purchases?;
+Referral bonuses;
+Loyalty programs;
+Cashback offers;
+;
+Loyalty programs;
+-end
+Which of the following is an example of a technology used by retailers to provide interactive experiences for customers?;
+Augmented reality;
+Virtual reality;
+Chatbots;
+;
+Augmented reality;
+-end
+Which of the following is an example of a pricing strategy used by retailers to sell products at a price that is higher than the competition?;
+Penetration pricing;
+Skimming pricing;
+Premium pricing;
+;
+Premium pricing;
+-end
+Which of the following is an example of a technology used by retailers to provide customers with a seamless shopping experience across different channels?;
+Omnichannel technology;
+Virtual assistants;
+Artificial intelligence;
+;
+Omnichannel technology;
+-end
+Which of the following is an example of a promotional strategy used by retailers to encourage customers to make immediate purchases?;
+Referral bonuses;
+Limited-time offers;
+Loyalty programs;
+;
+Limited-time offers;
+-end
+Which of the following is an example of a promotional strategy used by retailers to offer a gift card with a minimum purchase amount?;
+Coupons;
+Rebates;
+Gift with purchase;
+;
+Gift with purchase;
+-end
+Which of the following is an example of a pricing strategy used by retailers to set a low price for a new product to attract customers and gain market share quickly?;
+Skimming pricing;
+Penetration pricing;
+Premium pricing;
+;
+Penetration pricing;
+-end
+Which is not the basic reason of the importance of Retail Location?;
+Customer convenience;
+Competitive advantage;
+Cost of investment;
+Light and ventilation;
+Light and ventilation;
+-end
+Which products are produced and marketed by companies to many retailers?;
+National brands;
+Local brands;
+Unbranded;
+Commodities;
+National brands;
+-end
+The layout that has parallel aisles with merchandise on shelves on both sides of the aisles is.;
+Racetrack;
+Standee;
+Grid;
+Loop;
+Grid;
+-end
+Free standing sites are located at;
+Traffic signals at highways;
+High pedestrian traffic area;
+Remote locations;
+Low pedestrian traffic area;
+High pedestrian traffic area;
+-end
+Freedom layout indicates that merchandise is arranged _____.;
+In a symmetrical manner;
+In circles;
+In an asymmetrical manner;
+Non to the options;
+In an asymmetrical manner;
+-end
+This is the most preferred mode through which foreign players have entered the Indian market. It is the easiest route to enter the Indian market;
+FII;
+Franchising;
+FDI;
+IIP;
+Franchising;
+-end
+The products which enjoy popularity and generte lot of sales in a short span of time and later go out of fashion;
+Fad;
+Category killers;
+Variety;
+Assortment;
+Fad;
+-end
+The process by which a retailer attempts to offer the right quantity of the right merchandise in the right place at the right time and meet the company's financial goalsis known as;
+Merchandise management;
+Procurement;
+Distribution;
+Sales;
+Merchandise management;
+-end
+This provides the way to gather lead contact informtion, house it, use it for communictaion purposes and run reports on the data researches have collected;
+Point of sales;
+Customer analytics;
+Campaign;
+CRM;
+Customer analytics;
+-end

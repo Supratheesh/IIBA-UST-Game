@@ -1,0 +1,734 @@
+The seven wastes, as outlined in the Lean Manufacturing are;
+Over Production, Waiting, Transport, Manpower, Over Processing, Motion, Overtime;
+Over Production, Waiting, Transport, Inventory, Over Processing, Motion, Defects;
+Over Production, Waiting, Transport, Inventory, Scrap, Rework, Defects;
+All of the above;
+All of the above;
+-end
+An activity that is wasteful and doesn't add value or is unproductive is called:;
+Murari;
+Muri;
+Mura;
+Muda;
+Muda;
+-end
+A rapid improvement effort designed to produce results within  a few days is called:;
+Kaizen Blitz;
+Kaizen Kanban;
+i-Kaizen;
+Takt;
+i-Kaizen;
+-end
+If it takes 20 minutes to make 10 piece, what will be the takt time?;
+Can not be calculated from this information;
+20 min;
+60 secs;
+2 min;
+2 mins;
+-end
+Which of the following doesnot come in 7 wastes of Lean Manufacturing;
+Inventory;
+Transport;
+Motion;
+Packing;
+Packing;
+-end
+What is the main difference between supply chain management (SCM) and logistics?;
+Logistics focuses on two main constituents: transportation and warehousing;
+SCM's main focus is the delivery of a final product while logistics focuses more on the bigger picture;
+Logistics covers a number of processes in the supply chain while SCM just focuses on moving products;
+None of the above;
+Logistics focuses on two main constituents: transportation and warehousing;
+-end
+How are businesses hoping blockchain will help SCM?;
+Increase transparency and visibility;
+Secure exchange of data;
+Manage smart contracts;
+All of the above;
+All of the above;
+-end
+Which of the following processes are used by manufacturers to meet compliance demands?;
+Sustainable procurement;
+Supply chain visibility (SCV);
+Supply chain planning;
+Risk management;
+Supply chain visibility (SCV);
+-end
+Which of the following is not a benefit of SCM?;
+Higher profits;
+Lower costs;
+Boosting collaboration efforts;
+None of the above;
+None of the above;
+-end
+Which provider is most commonly used by companies to help handle standard transport and logistics functions in SCM?;
+Third-party logistics providers;
+Fourth-party logistics providers;
+Second-party logistics providers;
+Fifth-party logistics providers;
+Third-party logistics providers;
+-end
+Lot and serial numbers, quantity of goods and cost of goods are data used in which kind of management?;
+Order management;
+Transportation management;
+Inventory management;
+SCM;
+Inventory management;
+-end
+______________ is the rate (time per unit of value) at which work should proceed through a Value Stream;
+Cycle Time;
+Activity Time;
+Takt Time ;
+All the above;
+Cycle Time;
+-end
+This technique can be used to conduct root cause analysis;
+5 Why;
+Fishbone diagram;
+Cause and Effect diagram;
+Kanaban;
+5 Why;
+-end
+Pull system helps in avoiding ______________;
+Over production;
+Slow production;
+Fast production;
+Scarcity;
+-end
+When Industry 4.0 starts?;
+2007;
+2010;
+2013;
+2016;
+2013;
+-end
+When did the 3rd industrial revolution prompted?;
+1950s;
+1960s;
+1970s;
+None of the above;
+1960s;
+-end
+Which country government introduced the Industry 4.0 concept?;
+United States of America;
+France;
+Germany;
+Great Britain;
+Germany;
+-end
+This company was the first to utilize a robotics system in its production line;
+Ford Motor Co;
+Volkswagen;
+General Motors;
+Toyota;
+General Motors;
+-end
+The First Industrial Revolution was brought in by what technology?;
+Steam Power;
+Electricity and Mass Production;
+Computers and Semiconductors;
+Agrarian Riots and Starvation;
+Steam Power;
+-end
+The Internet of Things (IoT), access to real-time data, and the introduction of cyber-physical systems mark the big changes for this era;
+3rd Industrial Revolution;
+Industry 4.0;
+Manufacturing Age;
+Industrial Revolution;
+Industry 4.0;
+-end
+IIoT stands for;
+Industrial Internet of Things;
+Internet Internet of Things;
+Intelligence Internet of Things;
+Internal Internet of Things;
+Industrial Internet of Things;
+-end
+What is a Smart Factory?;
+Robots who will replace people?;
+Factories and logistic systems that will operate and organise themselves without human interaction;
+Factories and logistic systems that will organise  th emselves by human interaction.;
+All of the above;
+Factories and logistic systems that will operate and organise themselves without human interaction;
+-end
+The automation of communication between devices, with no human intervention.;
+Sensor;
+Machine to Machine (M2M);
+Big Data;
+Wearables;
+Machine to Machine (M2M);
+-end
+What is/are the essential components of a smart factory?;
+Smart Machines;
+People at Work;
+Trained Personnel;
+All of the above;
+Smart Machines;
+-end
+What are the advantages of Industry 4.0?;
+Improved productivity and efficiency;
+Low cost of implementation;
+Creating more vacancies for workers;
+No risk of hacking into the internal network;
+Improved productivity and efficiency;
+-end
+What is the definition of a manufacturing business?;
+A business that produces goods from raw materials;
+A business that provides services to customers;
+A business that buys and sells products;
+A business that invests in real estate;
+A business that produces goods from raw materials;
+-end
+What is the purpose of inventory management in a manufacturing business?;
+To reduce waste;
+To increase profits;
+To improve customer satisfaction;
+All of the above;
+All of the above;
+-end
+What is the purpose of a quality control system in a manufacturing business?;
+To reduce waste;
+To increase profits;
+To improve customer satisfaction;
+All of the above;
+To improve customer satisfaction;
+-end
+What is Six Sigma?;
+A quality control methodology;
+A type of manufacturing process;
+A type of inventory management;
+A type of accounting system;
+A quality control methodology;
+-end
+What is an assembly line?;
+A type of production line where workers add components to a product;
+A type of quality control system;
+A type of inventory management system;
+A type of accounting system;
+AA type of production line where workers add components to a product;
+-end
+What is a just-in-time inventory system?;
+A system where materials are ordered and delivered just in time for production;
+A system where materials are ordered and delivered in bulk;
+A system where materials are ordered and stored in a warehouse;
+A system where materials are ordered and stored in a separate facility;
+A system where materials are ordered and delivered just in time for production;
+-end
+What is a material requirements planning system?;
+A system that determines the materials needed to produce a product;
+A system that determines the number of employees needed to produce a product;
+A system that determines the cost of producing a product;
+A system that determines the price of a product;
+A system that determines the materials needed to produce a product;
+-end
+What is the primary goal of manufacturing business?;
+To maximize profit;
+To minimize cost;
+To maximize customer satisfaction;
+To minimize waste;
+To maximize profit;
+-end
+Which of the following is an example of a manufacturing business?;
+A law firm;
+A restaurant;
+A car factory;
+A clothing store;
+A car factory;
+-end
+What is the difference between a product and a service?;
+A product is tangible, while a service is intangible.;
+A product is intangible, while a service is tangible.;
+A product is a physical item, while a service is an idea.;
+A product is an idea, while a service is a physical item.;
+A product is tangible, while a service is intangible.;
+-end
+What is the difference between make-to-stock and make-to-order production?;
+Make-to-stock produces goods based on customer orders, while make-to-order produces goods based on forecasted demand.;
+Make-to-stock produces goods based on forecasted demand, while make-to-order produces goods based on customer orders.;
+Make-to-stock produces goods in large quantities, while make-to-order produces goods in small quantities.;
+Make-to-stock produces custom-made goods, while make-to-order produces standardized goods.;
+Make-to-stock produces goods based on forecasted demand, while make-to-order produces goods based on customer orders.;
+-end
+Which of the following is a measure of a manufacturing company's efficiency?;
+Sales revenue;
+Net profit;
+Gross margin;
+Manufacturing cycle time;
+Manufacturing cycle time;
+-end
+What is a supply chain?;
+The flow of goods and services from the producer to the consumer;
+The process of purchasing materials and supplies;
+The management of inventory;
+The process of manufacturing goods;
+The flow of goods and services from the producer to the consumer;
+-end
+What is a bill of materials?;
+A list of materials needed to manufacture a product;
+A document outlining the company's financial statements;
+A list of employees and their job duties;
+A document outlining the company's marketing plan;
+A list of materials needed to manufacture a product;
+-end
+Which of the following is a type of manufacturing inventory?;
+Raw materials;
+Work in progress;
+Finished goods;
+All of the above;
+All of the above;
+-end
+What is lean manufacturing?;
+A manufacturing process that minimizes waste;
+A manufacturing process that maximizes profits;
+A manufacturing process that emphasizes quality control;
+A manufacturing process that involves multiple steps;
+A manufacturing process that minimizes waste;
+-end
+What is the difference between a product design and a process design?;
+A product design is the physical characteristics of a product, while a process design is how the product is manufactured.;
+A product design is how the product is manufactured, while a process design is the physical characteristics of a product.;
+A product design is the company's marketing plan, while a process design is the company's production plan.;
+A product design is the company's financial plan, while a process design is the company's marketing plan.;
+A product design is the physical characteristics of a product, while a process design is how the product is manufactured.;
+-end
+Which of the following is NOT a major type of manufacturing process?;
+Casting;
+Machining;
+Forging;
+Agriculture;
+Agriculture;
+-end
+Which of the following is NOT a key driver of manufacturing competitiveness?;
+Quality;
+Cost;
+Innovation;
+Population density;
+Population density;
+-end
+Which of the following is an example of a primary manufacturing process?;
+Assembly;
+Welding;
+Casting;
+Polishing;
+Casting;
+-end
+Which of the following is an example of a secondary manufacturing process?;
+Forging;
+Machining;
+Molding;
+Heat treating;
+Machining;
+-end
+Which of the following is a key factor in determining manufacturing efficiency?;
+Raw material cost;
+Labor cost;
+Energy cost;
+All of the above;
+All of the above;
+-end
+Which of the following is an example of a continuous manufacturing process?;
+Batch processing;
+Job shop processing;
+Assembly line processing;
+Prototype processing;
+Assembly line processing;
+-end
+Which of the following is NOT a major type of manufacturing system?;
+Mass production;
+Batch production;
+Lean production;
+Agile production;
+Agile production;
+-end
+Which of the following is NOT a type of product design?;
+Modular design;
+Functional design;
+Aesthetic design;
+Distributive design;
+Distributive design;
+-end
+Which of the following is NOT a type of manufacturing cost?;
+Direct materials cost;
+Direct labor cost;
+Overhead cost;
+Administrative cost;
+Administrative cost;
+-end
+What is the primary goal of a manufacturing process?;
+To produce high-quality products;
+To produce products at a low cost;
+To produce products quickly;
+All of the above;
+All of the above;
+-end
+What is the difference between a product and a process layout?;
+In a product layout, similar operations are grouped together, while in a process layout, dissimilar operations are grouped together.;
+In a product layout, operations are performed in a sequential order, while in a process layout, operations are performed in a parallel order.;
+In a product layout, the layout is based on the product being manufactured, while in a process layout, the layout is based on the manufacturing process.;
+There is no difference between a product and a process layout.;
+In a product layout, the layout is based on the product being manufactured, while in a process layout, the layout is based on the manufacturing process.;
+-end
+What is the purpose of statistical process control (SPC)?;
+To identify defects in the manufacturing process;
+To improve the quality of the manufacturing process;
+To reduce the variability in the manufacturing process;
+All of the above;
+All of the above;
+-end
+Which of the following is a primary goal of manufacturing businesses?;
+Providing services;
+Selling products;
+Maximizing profits;
+All of the above;
+Selling products;
+-end
+Which of the following is not an important aspect of manufacturing businesses?;
+Quality control;
+Cost control;
+Inventory management;
+Financial services;
+Financial services;
+-end
+Which of the following is not an important manufacturing process?;
+Material handling;
+Machining;
+Assembly;
+Marketing;
+Marketing;
+-end
+Which of the following is a common manufacturing system used in many businesses?;
+Lean manufacturing;
+Fat manufacturing;
+Heavy manufacturing;
+Agile manufacturing;
+Lean manufacturing;
+-end
+What is the purpose of Total Quality Management (TQM) in manufacturing?;
+To increase production speed;
+To reduce production costs;
+To improve product quality;
+To increase profit margins;
+To improve product quality;
+-end
+What is a key challenge faced by many manufacturing businesses?;
+Attracting customers;
+Finding skilled workers;
+Increasing market share;
+Reducing product prices;
+Finding skilled workers;
+-end
+Which of the following is not a primary manufacturing industry?;
+Chemical;
+Construction;
+Food and beverage;
+Textile;
+Construction;
+-end
+What is the process of adding value to a raw material to make a finished product called?;
+Manufacturing;
+Fabrication;
+Production;
+Assembly;
+Manufacturing;
+-end
+Which of the following is a manufacturing system that focuses on reducing waste and increasing efficiency?;
+Lean manufacturing;
+Mass manufacturing;
+Custom manufacturing;
+Batch manufacturing;
+Lean manufacturing;
+-end
+What is a group of machines or workstations arranged in a sequence to produce a specific product or part called?;
+Workforce;
+Assembly line;
+Production cell;
+Manufacturing facility;
+Assembly line;
+-end
+Which of the following is not a component of manufacturing overhead?;
+Direct materials;
+Indirect labor;
+Depreciation;
+Rent;
+Direct materials;
+-end
+Which of the following is not a type of production system?;
+Push system;
+Pull system;
+Hybrid system;
+All of the above are types of production systems;
+All of the above are types of production systems;
+-end
+What is the process of converting raw materials into finished goods called?;
+Production;
+Assembly;
+Manufacturing;
+Fabrication;
+Manufacturing;
+-end
+Which of the following is a manufacturing process that uses a mold to shape a material into a specific form?;
+Injection molding;
+Extrusion;
+Casting;
+None of the above;
+Injection molding;
+-end
+What is the process of designing a product and determining the materials and processes needed to manufacture it called?;
+Production planning;
+Process design;
+Product development;
+None of the above;
+Product development;
+-end
+Which of the following is not a common quality control technique used in manufacturing?;
+Statistical process control;
+Six Sigma;
+Total Quality Management;
+None of the above;
+None of the above;
+-end
+Which of the following is not a type of manufacturing layout?;
+Process layout;
+Product layout;
+Cellular layout;
+None of the above;
+None of the above;
+-end
+What is the process of combining two or more materials to create a new material with different properties called?;
+Mixing;
+Blending;
+Composite manufacturing;
+None of the above;
+Composite manufacturing;
+-end
+Which of the following is not a component of a manufacturing process?;
+Raw materials;
+Finished goods;
+Work-in-progress;
+Overhead;
+Finished goods;
+-end
+What is the process of analyzing a manufacturing process to identify areas for improvement called?;
+Process mapping;
+Value stream mapping;
+Process improvement;
+None of the above;
+Process improvement;
+-end
+What is the term used to describe the process of converting raw materials into finished products?;
+Production;
+Sales;
+Marketing;
+Distribution;
+Production;
+-end
+Which of the following is NOT a method of manufacturing?;
+Lean manufacturing;
+Six Sigma;
+Total Quality Management;
+Business Process Reengineering;
+Business Process Reengineering;
+-end
+What is the process of reducing waste and improving efficiency in manufacturing called?;
+Lean manufacturing;
+Six Sigma;
+Total Quality Management;
+Business Process Reengineering;
+Lean manufacturing;
+-end
+What is Just-in-Time (JIT) manufacturing?;
+A manufacturing system in which products are produced based on customer orders;
+A manufacturing system in which products are produced in large quantities and stored in inventory;
+A manufacturing system in which products are produced and shipped immediately to customers;
+A manufacturing system in which products are produced in small quantities and delivered to customers as needed;
+A manufacturing system in which products are produced based on customer orders;
+-end
+What is Computer Numerical Control (CNC)?;
+A manufacturing process in which machines are controlled by computers;
+A manufacturing process in which products are made by hand;
+A manufacturing process in which robots are used to assemble products;
+A manufacturing process in which products are produced in large quantities;
+A manufacturing process in which machines are controlled by computers;
+-end
+What is a quality control system?;
+A system that ensures that products meet certain standards of quality;
+A system that ensures that employees are working efficiently;
+A system that monitors customer satisfaction;
+A system that tracks sales and revenue;
+A system that ensures that products meet certain standards of quality;
+-end
+What is the purpose of a Six Sigma program?;
+To reduce defects and improve quality in manufacturing processes;
+To increase sales and revenue;
+To improve employee satisfaction;
+To improve customer service;
+To reduce defects and improve quality in manufacturing processes;
+-end
+What is Total Quality Management (TQM)?;
+A management philosophy that emphasizes continuous improvement in all areas of an organization;
+A manufacturing process that produces products in small quantities;
+A marketing strategy that targets a specific demographic;
+A financial strategy that focuses on reducing costs;
+A management philosophy that emphasizes continuous improvement in all areas of an organization;
+-end
+What is the process of turning raw materials into semi-finished products called?;
+Machining;
+Forging;
+Casting;
+Fabrication;
+Fabrication;
+-end
+What is the primary objective of a manufacturing business?;
+Maximize profits;
+Maximize customer satisfaction;
+Maximize employee satisfaction;
+Maximize market share;
+Maximize profits;
+-end
+Which of the following is not a type of manufacturing process?;
+Batch manufacturing;
+Continuous manufacturing;
+Job shop manufacturing;
+Service manufacturing;
+Service manufacturing;
+-end
+What is just-in-time manufacturing?;
+A manufacturing process that focuses on producing goods only when they are needed;
+A manufacturing process that focuses on producing goods in large batches;
+A manufacturing process that focuses on producing goods as quickly as possible;
+A manufacturing process that focuses on producing goods in a flexible manner;
+A manufacturing process that focuses on producing goods only when they are needed;
+-end
+Which of the following is a characteristic of mass production?;
+High product customization;
+Low product quality;
+Low production efficiency;
+High production volume;
+High production volume;
+-end
+Which of the following is a characteristic of lean manufacturing?;
+High inventory levels;
+High levels of waste;
+Continuous improvement;
+High levels of automation;
+Continuous improvement;
+-end
+Which of the following is an example of a manufacturing input?;
+Machinery;
+Finished goods;
+Customers;
+Advertising;
+Machinery;
+-end
+Which of the following is an example of a manufacturing output?;
+Raw materials;
+Employees;
+Goods produced;
+Sales revenue;
+Goods produced;
+-end
+What is the purpose of a bill of materials?;
+To list the steps required to manufacture a product;
+To list the materials needed to manufacture a product;
+To list the costs associated with manufacturing a product;
+To list the customers who have ordered a product;
+To list the materials needed to manufacture a product;
+-end
+What is capacity planning?;
+Determining the number of employees needed to manufacture a product;
+Determining the amount of raw materials needed to manufacture a product;
+Determining the amount of machinery and resources needed to manufacture a product;
+Determining the price at which a product should be sold;
+Determining the amount of machinery and resources needed to manufacture a product;
+-end
+What is process mapping?;
+The process of creating a map of a manufacturing facility;
+The process of identifying the steps involved in a manufacturing process;
+The process of identifying the location of raw materials in a manufacturing facility;
+The process of identifying the location of finished goods in a manufacturing facility;
+The process of identifying the steps involved in a manufacturing process;
+-end
+Which of the following is a reason for outsourcing manufacturing?;
+To reduce production costs;
+To increase production efficiency;
+To improve product quality;
+To improve customer satisfaction;
+To reduce production costs;
+-end
+What is the primary goal of a manufacturing business?;
+To maximize profits;
+To minimize costs;
+To produce high-quality products;
+To innovate and stay ahead of competitors;
+To produce high-quality products;
+-end
+Which of the following is an example of a manufacturing process?;
+Retail sales;
+Consulting services;
+Automobile assembly;
+Social media marketing;
+Automobile assembly;
+-end
+What is a bill of materials (BOM)?;
+A list of the raw materials needed to manufacture a product;
+A list of the finished products that a manufacturer produces;
+A list of the suppliers that a manufacturer works with;
+A list of the machinery used in the manufacturing process;
+A list of the raw materials needed to manufacture a product;
+-end
+Which of the following is an example of a variable cost for a manufacturing business?;
+Rent;
+Salaries;
+Raw materials;
+Insurance;
+Raw materials;
+-end
+What is a production line?;
+A group of workers who perform a specific task in the manufacturing process;
+A system that tracks the progress of a product through the manufacturing process;
+A series of machines that perform specific tasks in the manufacturing process;
+A department responsible for quality control in the manufacturing process;
+A series of machines that perform specific tasks in the manufacturing process;
+-end
+What is a work order?;
+A document that specifies the materials and labor required to produce a product;
+A document that outlines the production schedule for a manufacturing process;
+A document that specifies the pricing and terms of a customer order;
+A document that outlines the inventory levels of raw materials and finished products;
+A document that specifies the materials and labor required to produce a product;
+-end
+What is the purpose of a manufacturing resource planning (MRP) system?;
+To track the progress of products through the manufacturing process;
+To manage the inventory of raw materials and finished products;
+To schedule the production of products;
+To allocate resources (such as labor and machinery) to the manufacturing process;
+To allocate resources (such as labor and machinery) to the manufacturing process;
+-end
+What is a just-in-time (JIT) inventory system?;
+A system that orders raw materials as they are needed in the manufacturing process;
+A system that produces finished products as they are ordered by customers;
+A system that tracks the progress of products through the manufacturing process;
+A system that uses robots and automation to reduce the need for human labor;
+A system that orders raw materials as they are needed in the manufacturing process;
+-end
+Which of the following is not a component of a manufacturing business?;
+Procurement;
+Sales and Marketing;
+Service Delivery;
+Accounting;
+Service Delivery;
+-end
+What is the process of transforming raw materials into finished products called?;
+Production;
+Marketing;
+Sales;
+Distribution;
+Production;
+-end
+What is the name of the software used to manage the manufacturing process?;
+ERP;
+CRM;
+SCM;
+MIS;
+ERP;
+-end

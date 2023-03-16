@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="registration.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.13/css/intlTelInput.css">
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/11.0.4/js/utils.js"></script>
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.13/js/intlTelInput-jquery.min.js"></script>
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.13/js/intlTelInput.min.js"></script>
+
+</head>
+
+<body>
+    <div class="box">
+        <div class="form">
+            <h2>Register</h2>
+            <div class="inputBox">
+                <input type="text" required="required" id="fullName">
+                <span>Full Name</span>
+                <i></i>
+            </div>
+            <div class="inputBox">
+                <input type="text" required="required" id="email">
+                <span>Email</span>
+                <i></i>
+            </div>
+
+            <div class="inputBox">
+                                <input type="text" required="required" id="phoneNumber">
+                <span>Phone Number</span>
+                <i></i>
+            
+            </div>
+            <div class="inputBox">
+
+                <input type="text" required="required" id="organisation">
+                <span>Organization / Institution</span>
+                <i></i>
+            </div>
+
+            <div class="button">
+                <input type="submit" value="Register" onclick="handleSubmit()">
+
+            </div>
+
+            <div class="inputBox">
+                <p>&nbsp;</p>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+
+        function handleSubmit() {
+
+            var name = document.getElementById("fullName").value;
+            var email = document.getElementById("email").value;
+            var phoneNumber = document.getElementById("phoneNumber").value;
+            var organisation = document.getElementsByName('organisation');
+
+            console.log("category", category)
+
+            fetch("http://localhost:3000/auth/register", {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    playerFullName: name,
+                    playerEmail: email,
+                    phoneNo: phone,
+                    category: organisation
+                })
+            })
+
+
+                .then(function (response) {
+                    return response.json()
+                })
+                .then(function (data) {
+                    console.log('Success:', data.data.playerId)
+
+                    window.localStorage.setItem('pi', data.data.playerId);
+                    document.location = "index.html";
+                    // window.location = "game.html";
+
+                })
+
+
+        }
+
+    </script>
+</body>
+
+</html>

@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          dir: ./backend
+          path: "/backend"
 
       - name: Set up Node.js version
         uses: actions/setup-node@v1
